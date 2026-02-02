@@ -1,0 +1,1171 @@
+﻿Curriculum ID,Curriculum Title,Security Domain,Curriculum Type,Basis Date,Subsequent Failures Reset Curriculum Status,Active,Curriculum Description
+CUR-LSG-BED-AFNY-0001,Oligo dT Large Scale Coupling (Bedford Affinity),BED,,,No,Yes,"This training will provide guidance on the vessel set up, ligand testing and prep, coupling buffer prep, and coupling reaction start."
+CUR-LSG-BED-AFNY-0002,AAV Large Scale CDI Activation (Bedford Affinity),BED,,,No,Yes,
+CUR-LSG-BED-AFNY-0003,AAV Large Scale Coupling RXN (Bedford Affinity),BED,,,No,Yes,"Training to cover material prep and start the coupling reaction for AAV and AAVX at the 17.5kg scale. This includes ligand prep, coupling buffer prep, POROS charge and reaction start through Delta V."
+CUR-LSG-BED-AFNY-0004,Introduction to Affinity Products (Bedford Affinity),BED,,,No,Yes,Training focused on product manufacturing processes overview for affinity products for new and existing team members.
+CUR-LSG-BED-AFNY-0005,Affinity Buffer Preparation  (Bedford Affinity),BED,,,No,Yes,"This training will provide guidance on the process of manufacturing buffers such as charging materials, mixing solutions, obtaining line clearance, and adjusting pH."
+CUR-LSG-BED-AFNY-0006,Affinity Large Scale Bulk Packaging  (Bedford Affinity),BED,,,No,Yes,"This training will cover the process of closing the bulk and finished goods work orders where the bulk is packaged as finished good. The training shall encompass the process of discharging from the elutriation cones, moving the bulk to unrestricted inventory, and putting the finished good to stock."
+CUR-LSG-BED-AFNY-0007,Affinity Large Scale Post Coupling  (Bedford Affinity),BED,,,No,Yes,"This training will provide guidance on the post-coupling washes, starting the blocking, post-blocking washes and the transfer to the elutriation cone for discharge."
+CUR-LSG-BED-AFNY-0008,Affinity Elutriation Recirculation Skid Operator (Bedford Affinity),BED,,,No,Yes,"Training is for the Affinity team only for AAV products. Training will cover how to operate and clean the Elutriation Recirculation Skid in Bedford, MA."
+CUR-LSG-BED-AFNY-5001,Affinity Team Intro Curriculum (Bedford Affinity),BED,,,No,Yes,Curriculum covers Affinity basic trainings all department employees will need to take following onboarding training completion.
+CUR-LSG-BED-AFNY-5002,Affinity Buffer Prep Curriculum (Bedford Affinity),BED,,,No,Yes,Senior Tech +. Training covers buffer prep for Affinity resins.
+CUR-LSG-BED-AFNY-5003,Affinity Packaging Curriculum (Bedford Affinity),BED,,,No,Yes,Senior Tech +. Training covers packaging requirements for Affinity resins.
+CUR-LSG-BED-AFNY-5004,Affinity Coupling RXN Curriculum (Bedford Affinity),BED,,,No,Yes,Scientist 1 Tech +. Training covers Oligo dT and AAV products post-coupling RXNs steps.
+CUR-LSG-BED-AFNY-5005,Affinity Post-Coupling RXN Curriculum (Bedford Affinity),BED,,,No,Yes,Scientist 1 Tech +. Training covers Oligo dT and AAV products coupling RXNs as well as CDI activation.
+CUR-LSG-BED-AFNY-5006,Affinity In-Process Testing Curriculum (Bedford Affinity),BED,,,No,Yes,Senior Tech +. Training covers all QC in-process testing for Affinity resins performed by Affinity technicians.
+CUR-LSG-BED-AFNY-5007,Affinity Equipment Cleaning Curriculum (Bedford Affinity),BED,,,No,Yes,Senior Tech +. Training covers a variety equipment cleaning requirements used for Affinity resin production
+CUR-LSG-BED-AFNY-5008,Affinity APTAC Curriculum (Bedford Affinity),BED,,,No,Yes,Senior Tech +. Training covers all aspects of APTAC strip process
+CUR-LSG-BED-AFNY-5009,Affinity SAP Transactions Curriculum (Bedford Affinity),BED,,,No,Yes,Senior Tech +. Training covers all SAP transactions used by the Affinity team.
+CUR-LSG-BED-COLP-0001,New Employee for Column Packing/Small Scale POROS Packaging (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0002,Basewashing (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0003,Column Packaging (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0004,Column Packaging - Buffer Prep (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0005,Column Packing Database,BED,,,No,Yes,
+CUR-LSG-BED-COLP-0006,Column Testing (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0007,CTC Generation (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0008,Custom Process (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0009,Decrement Tag Training (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0010,Finished Goods Reprocessing (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0011,Flow Packing Method (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0012,Generation of Serial #s (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0013,Label Printing (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0014,Perkin Elmer Operation (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0015,POROS Bulk  Packaging (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0016,Slurry Resin Prep (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-COLP-0017,Wash Resin Prep (Bedford Column Packing),BED,,,No,Yes,
+CUR-LSG-BED-DIST-0001,AES Direct/ACE (Bedford Distribution),BED,,,No,Yes,Filing for export documents over $2500
+CUR-LSG-BED-DIST-0002,Bedford/Chelmsford Product Transfer (Bedford Distribution),BED,,,No,Yes,Training covers the product transfer process between Bedford and Chelmsford facility warehouses.
+CUR-LSG-BED-DIST-0003,Carrier Outbound Processes (Bedford Distribution),BED,,,No,Yes,Processing outbound orders with carriers.  Note Carriers list may change if Global Transportation approves new forwarding company
+CUR-LSG-BED-DIST-0004,CHM Materials Staging Process (Bedford Distribution),BED,,,No,Yes,"Training consists of an overview of the daily materials staging process, why this process is being implemented, how to use the pick/return form and roles and responsibilities of MFG, Distribution and Supervisor/Team lead."
+CUR-LSG-BED-DIST-0005,Consumable RA Receipts (Bedford Distribution),BED,,,No,Yes,Receive RA's from customers into SAP
+CUR-LSG-BED-DIST-0006,Cycle Count Adjustment Form (Bedford Distribution),BED,,,No,Yes,Who and what is needed for any cycle count adjustment made within the ERP systems
+CUR-LSG-BED-DIST-0007,Cycle Count IM (Bedford Distribution),BED,,,No,Yes,Counting SAP inventory managed storage locations
+CUR-LSG-BED-DIST-0008,Cycle Count WM (Bedford Distribution),BED,,,No,Yes,Counting SAP warehouse managed storage locations
+CUR-LSG-BED-DIST-0009,Delivery Pick List (Bedford Distribution),BED,,,No,Yes,"SAP customer delivery requirements of Bin location, SKU, lot quantity to be picked and shipping conditions for the product shipping"
+CUR-LSG-BED-DIST-0010,Distribution Manager Overview (Bedford Distribution),BED,,,No,Yes,"Training consists of all Distribution team procedures, forms and learn it training materials to understand the work being performed by the team."
+CUR-LSG-BED-DIST-0011,Electric Pallet Jack (Bedford Distribution),BED,,,No,Yes,Safety and proper use of the electric pallet jack
+CUR-LSG-BED-DIST-0012,Forklift (Bedford Distribution),BED,,,No,Yes,Safety and proper use of the forklift
+CUR-LSG-BED-DIST-0013,Hazardous Bulk Tank Farm Receipts (Bedford) (Bedford Distribution),BED,,,No,Yes,Receiving solvent bulk materials into the tank farm. Training for Hazardous Bulk Tank Farm Receipts at the Bedford 2 Preston Court location
+CUR-LSG-BED-DIST-0014,Hazardous Bulk Tank Farm Receipts (CHM),BED,,,No,Yes,Training for Hazardous Bulk Tank Farm Receipts at the Chelmsford 220 Mill Rd location
+CUR-LSG-BED-DIST-0015,Man Lift (WAV)/Sprint 2.0 (Bedford Distribution),BED,,,No,Yes,Safety and proper use of the WAV
+CUR-LSG-BED-DIST-0016,Material Bin Status (Bedford Distribution),BED,,,No,Yes,Checking the bins stock where material is being stored within the warehouse or labs
+CUR-LSG-BED-DIST-0017,Material Transfer Receipt (Bedford Distribution),BED,,,No,Yes,Transferring materials from one storage location to another with SAP
+CUR-LSG-BED-DIST-0018,Material Transfer Requests (Bedford Distribution),BED,,,No,Yes,Request materials to be transferred by another department or to another site
+CUR-LSG-BED-DIST-0019,New Distribution Employee (Bedford Distribution),BED,,,No,Yes,Onboarding trainings
+CUR-LSG-BED-DIST-0020,New Distribution Employee EHS Checklist (Bedford Distribution),BED,,,No,Yes,Classroom consists as a tour with assigned Distribution buddy to complete the EHS Distribution safety checklist specific to job role.
+CUR-LSG-BED-DIST-0021,Omni Logistics,BED,,,No,Yes,Shipping large orders or miscellaneous shipments with the carrier Omni Logisitics
+CUR-LSG-BED-DIST-0022,Open Delivery Monitor (Bedford Distribution),BED,,,No,Yes,SAP report showing open customer deliveries to be picked and posted
+CUR-LSG-BED-DIST-0023,Outbound Process Misc. Shipments (Bedford Distribution),BED,,,No,Yes,Shipping miscellaneous shipments via FedEx using the FedEx Ship Manager system. Non-ERP deliveries
+CUR-LSG-BED-DIST-0024,Outbound Process SAP Orders (Bedford Distribution),BED,,,No,Yes,Processing outbound delivery orders from SAP.
+CUR-LSG-BED-DIST-0025,Pactive Air Bubble (Bedford Distribution),BED,,,No,Yes,Safety and proper use of the bubble machine
+CUR-LSG-BED-DIST-0026,Shipping Process (General) (Bedford Distribution),BED,,,No,Yes,Overview of the shipping process
+CUR-LSG-BED-DIST-0027,Vendor Purchase Order Receipts (Bedford Distribution),BED,,,No,Yes,Receipts of purchase orders
+CUR-LSG-BED-DIST-0028,ZAGE (Aged Inventory) (Bedford Distribution),BED,,,No,Yes,Process for handling aged inventory materials.
+CUR-LSG-BED-DIST-0029,CHM Dock Lock Operator (Bedford Distribution),BED,,,No,Yes,"How to operate the Dock Lock System and safely unload/load items from truck in Chelmsford, MA."
+CUR-LSG-BED-DIST-0030,New Staging and Inventory Control Employee (Bedford Distribution),BED,,,No,Yes,"Onboarding training items collection for inventory control team.
+"
+CUR-LSG-BED-DIST-5001,Distribution Team Intro Curriculum (Bedford POROS),BED,,,No,Yes,Curriculum covers Distribution basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-DIST-5002,Distribution Lift Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers use of mechanical lift vehicles (WAV/Sprint) and drum hauler operation through EHS classroom training as well as on the floor department training.
+CUR-LSG-BED-DIST-5003,Forklift Operation Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers EHS and on the floor department training for forklift operation.
+CUR-LSG-BED-DIST-5004,Cycle Counting Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers cycle counting team tasks and program.
+CUR-LSG-BED-DIST-5005,Receiving Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers basic receiving responsibilities.
+CUR-LSG-BED-DIST-5006,Outbound Pre-requisite Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers DOT and IATA training - both of which are required for shipping to fully understand responsibilities due to regulatory and legal requirements. May have in-person or virtual options for completion.
+CUR-LSG-BED-DIST-5007,Outbound Curriculum (Bedford Distribution),BED,,,No,Yes,"Curriculum covers outbound responsibilities, including specific carrier requirements."
+CUR-LSG-BED-DIST-5008,BED Advanced Receiving Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers bulk tank receipts and consumable RA receipts training at the Bedford MA location.
+CUR-LSG-BED-DIST-5009,Distribution Advanced Tasks Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers use of Trackwise for issue reporting and SAP training for charging out materials by cost center.
+CUR-LSG-BED-DIST-5010,Distribution Supervisor/Manager Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers overview of distribution procedures and practices.
+CUR-LSG-BED-DIST-5011,CHM Advanced Receiving Curriculum (Bedford Distribution),BED,,,No,Yes,Curriculum covers bulk tank receipts and consumable RA receipts training at the Chelmsford MA location.
+CUR-LSG-BED-DIST-5012,Inventory Team Intro Curriculum (Bedford Inventory Control),BED,,,No,Yes,"Curriculum covers Staging and Inventory Control basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+
+"
+CUR-LSG-BED-EHS-0001,2 Preston Court Orientation Training (Bedford EHS),BED,,,No,Yes,This training is an overview of safety systems in place at the 2 Preston Court building. This training is required for all employees who work in the building or have the potential to work in the building
+CUR-LSG-BED-EHS-0002,220 Mill Road Chelmsford Orientation (Bedford EHS),BED,,,No,Yes,This training is an overview of safety systems in place at the 220 Mill Rd Chelmsford building. This training is required for all employees who work in the building or have the potential to work in the building.
+CUR-LSG-BED-EHS-0003,35 Wiggins EHS Checklist (Bedford EHS),BED,,,No,Yes,To be completed by general staff located at 35 Wiggins Ave.
+CUR-LSG-BED-EHS-0004,Area Supervisor/Manager (Bedford EHS),BED,,,No,Yes,A series of EHS documents that supervisors are required to review.
+CUR-LSG-BED-EHS-0005,Back Safety (Bedford EHS),BED,,,No,Yes,Optional training for employees who wish to learn a safe method of lifting to prevent back injuries
+CUR-LSG-BED-EHS-0006,BED/CHM Condenser Annual Refresher (Bedford EHS),BED,,,No,Yes,"Review Vent Condenser at 2 Preston Court and CHM 220 Mill Training Learn It Powerpoint presentation with an annual refresher training with POROS, Pilot Plant, and Maintenance Technicians during the annual EH&S refresher training sessions. It will be an in person classroom training that is required for the personnel working in these areas. Main talking points will be what to do in the event of a vent condenser temperature excursion as well as what to do in the case of a rupture disk burst."
+CUR-LSG-BED-EHS-0007,Behavior Based Safety Observer (Bedford EHS),BED,,,No,Yes,For those that will be conducting behavior-based safety observations to identify at risk behaviors and promote safe behaviors.
+CUR-LSG-BED-EHS-0008,"Biosafety Training (Classroom, Annual) (Bedford EHS)",BED,,,No,Yes,"This annual training is designed to eliminate or minimize the occupational exposure of employees to human blood and other potentially infectious materials. Employees who may require this training include but are not limited to Lab Personnel, shipper / receivers of packages containing blood or Other Potentially infectious materials or First aid / Emergency response personnel. This is a beginner course."
+CUR-LSG-BED-EHS-0009,Bulk Storage Tank Operations (Bedford EHS),BED,,,No,Yes,A series of documents required to review prior to unloading bulk hazardous waste from the tank farm.
+CUR-LSG-BED-EHS-0010,CHM - SPCC Discharge Prevention (Bedford EHS),BED,,,No,Yes,"Training intended for facility and maintenance employees. Training will cover:
+
+
+	Introduction to the Oil Spill Prevention, Control, and Countermeasures (SPCC) Plan
+	Regulatory applicability, requirements, and components of the SPCC
+	No Exposure Certification
+	Oil storage description and deliveries
+	Oil storage inspections and recordkeeping
+	Spill response procedures"
+CUR-LSG-BED-EHS-0011,Compressed Gas Training (Bedford EHS),BED,,,No,Yes,Required for employees who will need to transport compressed gas cylinders.
+CUR-LSG-BED-EHS-0012,"Confined Space Training (Classroom, Annual) (Bedford EHS)",BED,,,No,Yes,"This is the annual refresher for confined space training. The objective of this course is to review responsibilities of the Area Supervisor, Authorized Attendance, Authorized Entrant, Entry Supervisor, and EHS Department. It reviews all safety requirements to complete a confined space permit. No employee is authorized to complete a confined space entry without this training.
+"
+CUR-LSG-BED-EHS-0013,Contractor Safety,BED,,,No,Yes,"Required for review if responsible to oversee contractors.
+"
+CUR-LSG-BED-EHS-0014,CPR/1st Aid (Bedford EHS),BED,,,No,Yes,"Optional Training Valid for 2 years. Once training has been completed, employee will be added to emergency response call list.
+"
+CUR-LSG-BED-EHS-0015,Cranes/Hoists Training (Bedford EHS),BED,,,No,Yes,"This training consists of a Learn It - training content review followed by a facilitated quiz for operating hoists.
+"
+CUR-LSG-BED-EHS-0016,DOT Training (Bedford EHS),BED,,,No,Yes,"Department of Transportation Training, given by external vendor. Valid for 3 years. DC employees should consider taking this training.
+"
+CUR-LSG-BED-EHS-0017,Drum Dolly Use/Operation (Bedford EHS),BED,,,No,Yes,"Reviews the use of Steel and Plastic dollies, their weight limits, and what types of drums and equipment can be stored on what type of dollies.
+"
+CUR-LSG-BED-EHS-0018,Drum Hauler Operation (Bedford EHS),BED,,,No,Yes,"Classroom training to consist of overview of operation as well as test drive session for hands on experience. Use link for online training video. This training will require refresher training.
+"
+CUR-LSG-BED-EHS-0019,Drum Lifting to Dolly/Pallet (Bedford EHS),BED,,,No,Yes,"""How to inspect, lift and lower a 55 gallon drum using the drum lifting device in the loading dock/shipping and receiving area of 2 Preston Court
+How to secure the lifting device to the drum lip""
+"
+CUR-LSG-BED-EHS-0020,EHS LO/TO (Annual Refresher) (Bedford EHS),BED,,,No,Yes,"The purpose of this refresher training is to recognize situation where LOTO is needed, understand the LOTO policy, Select the appropriate LOTO Devices, Conduct LOTO Operations, and understand the rules for Safe LOTO.
+"
+CUR-LSG-BED-EHS-0021,EHS Manager/Specialist (Bedford EHS),BED,,,No,Yes,"A series of EHS Documents required for an EHS Specialist to review.
+"
+CUR-LSG-BED-EHS-0022,Energized Electrical Safety NFPA70e (Bedford EHS),BED,,,No,Yes,"Required when employees intend to work on live electrical equipment on site. (TF employees should require contractor for live electrical work). Target audience is facilities and maintenance, optional for EHS. Refresher every 2 years. This course is often delivered by outside vendors such as TIGER."
+CUR-LSG-BED-EHS-0023,Fall Protection Training (Bedford EHS),BED,,,No,Yes,"Fall Protection and Ladder Safety is required for employees that intend to use fall arrest equipment or ladders at the facility.
+"
+CUR-LSG-BED-EHS-0024,Forklift Training (Bedford EHS),BED,,,No,Yes,"Objectives: INTRODUCE TRAINING AND REGULATORY REQUIREMENTS, DISCUSS BASIC FORKLIFT OPERATING PRINCIPLES, DISCUSS FORKLIFT SAFETY REQUIREMENTS, DISCUSS HAZARDOUS DRIVING SITUATIONS, and Finally CONDUCT A WRITTEN AND DRIVING PROFICIENCY TEST
+"
+CUR-LSG-BED-EHS-0025,Hazard Communication (Bedford EHS),BED,,,No,Yes,"""Hazard Communication refers to the methods and other materials the company uses to communicate the potential health, safety, and environmental hazards of workplace chemicals to its employees, contractors, and visitors. This program also includes the methods used to prevent exposure to hazardous chemicals.
+
+26May21, """"New Employee Safety Training(General) now satisfies the Hazard Communication Requirement.""
+"
+CUR-LSG-BED-EHS-0026,Hazardous Chemical Storage (Bedford EHS),BED,,,No,Yes,"Covers the general storage requirements for chemical storage in lab and manufacturing space at the company.
+"
+CUR-LSG-BED-EHS-0027,"Hazardous Waste (Classroom, Annual) (Bedford EHS)",BED,,,No,Yes,"To be completed during your standard annual refresher trainings.
+"
+CUR-LSG-BED-EHS-0028,Hazardous Waste Handling - POROS Operator (Bedford EHS),BED,,,No,Yes,"This training is required for POROS Operators who will be handling hazardous waste.
+"
+CUR-LSG-BED-EHS-0029,Hazardous Waste Security Plan (Bedford EHS),BED,,,No,Yes,"Annual R&A training for EHS and DC employees.This plan describes procedures developed by Thermo Fisher Scientific (TF) for managing the security of containers of hazardous waste and hazardous products.
+"
+CUR-LSG-BED-EHS-0030,Hot Work (Bedford EHS),BED,,,No,Yes,"This R&A is required for employees who intend to perform hot work or fill out hot work permits.
+"
+CUR-LSG-BED-EHS-0031,IATA Training (Bedford EHS),BED,,,No,Yes,"This is an external training given by a vendor. DC employees should consider taking this training.
+"
+CUR-LSG-BED-EHS-0032,Lifting Equipment Training (Bedford EHS),BED,,,No,Yes,"The proper use of lifting equipment available onsite
+"
+CUR-LSG-BED-EHS-0033,Conducting JHA/JSA (Job Hazards Analysis) (Bedford EHS),BED,,,No,Yes,"Training intended for EHS team only as optional. Recommended to complete every 2 years to continue certification. Training facilitated by outside vendors, such as TIGER training."
+CUR-LSG-BED-EHS-0034,Management of Change Process (MOC) (Bedford EHS),BED,,,No,Yes,"This training is to cover the process flow of the Management of Change (MOC) process on site. Important for all employees that manage projects or handle new equipment/instrument installs or requesting change to how we currently do things.
+"
+CUR-LSG-BED-EHS-0035,Mercury Handling Training (Bedford EHS),BED,,,No,Yes,"To cover safe handling of mercury and working with Porosimeter (CHM focus). Required training for access to lab.
+"
+CUR-LSG-BED-EHS-0036,New Employee Safety Training(General) (Bedford EHS),BED,,,No,Yes,"To be assigned to all new employees. Effective 26May21, this training satisfies OSHA Lab Standard
+"
+CUR-LSG-BED-EHS-0037,New/Transfer Employee EHS Checklist (Bedford EHS),BED,,,No,Yes,"To be completed by New or Transfer employees in general roles. Lab and production area employees must complete area specific EHS Checklist.
+"
+CUR-LSG-BED-EHS-0038,Office Safety Training (Bedford EHS),BED,,,No,Yes,"An optional training that will cover safety programs that may relate to a office-based employee.
+"
+CUR-LSG-BED-EHS-0039,OSHA Emergency Response 24 HR (Bedford EHS),BED,,,No,Yes,"Spill Team Training - 24 hour (TIGER Training)
+"
+CUR-LSG-BED-EHS-0040,OSHA Emergency Response 8 HR Refresher (Bedford EHS),BED,,,No,Yes,"Spill team 8 HR refresher training. Note: 24 HR training required prior to being assigned refresher training. (TIGER training)
+"
+CUR-LSG-BED-EHS-0041,OSHA Lab Standard (Bedford EHS),BED,,,No,Yes,"To be assigned to all employees who intend to work in a lab or manufacturing space. The training will cover general safety requirements for lab employees.
+"
+CUR-LSG-BED-EHS-0042,Powered Personal Lift Training (Bedford EHS),BED,,,No,Yes,"This is a required training for employees who intend to use the wave and Sprint 2.0. A demonstration on the floor will be required.
+"
+CUR-LSG-BED-EHS-0043,Process Safety Management (Bedford EHS),BED,,,No,Yes,"Although the Bedford facility does not fall under the OSHA PSM standard, this is an awareness training for employees that will be working at the 2 Preston Court facility on what Process Safety Management is.
+"
+CUR-LSG-BED-EHS-0044,Pulmonary Function Test (PFT) (Bedford EHS),BED,,,No,Yes,"""Needs to be completed prior to initial Fit Test. You can schedule a Pulmonary Function Test through Mt. Auburn: 
+Occupational Health Services – Mount Auburn Hospital 
+725 Concord Ave, Cambridge, MA 02138
+(617) 354-0546""
+"
+CUR-LSG-BED-EHS-0045,Respirator Fit Test (Bedford EHS),BED,,,No,Yes,"Respirator fit tests are required to be completed on an annual basis. Please make sure you shave if necessary as the respirator needs to have a tight seal.
+"
+CUR-LSG-BED-EHS-0046,Respiratory Protection (Classroom) (Bedford EHS),BED,,,No,Yes,"The purpose of this training is to review safe site respiratory protection within general guidelines. In addition to this training, employees are required to complete a Respiratory Fit Test, and Pulmonary function test if they haven't already done so.
+"
+CUR-LSG-BED-EHS-0047,Onsite Management Safety Training (Bedford EHS),BED,,,No,Yes,"This classroom training will cover supervisor safety responsibilities for their direct reports. The training will cover site wide policies, incident investigation training, reporting requirements, etc.
+"
+CUR-LSG-BED-EHS-0048,Waste Station Best Practices (Bedford EHS),BED,,,No,Yes,This training is a best practice share on the operation and maintenance of waste stations in the manufacturing suites. It is necessary to follow these guidelines to stay within compliance of regulatory agencies.
+CUR-LSG-BED-EHS-0049,Waste Storage Tank Operation (Bedford EHS),BED,,,No,Yes,An R&A Requirement for EHS reps to unload the hazardous waste tanks at 2 Preston Court and 220 Mill
+CUR-LSG-BED-EHS-0050,Workplace Exposure Assessment (Bedford EHS),BED,,,No,Yes,
+CUR-LSG-BED-EHS-0051,RCRA (Federal) Haz Waste Shipping (Bedford EHS),BED,,,No,Yes,"Training target audience is for EHS team and select distribution, maintenance and production employees that will be involved in Haz waste shipping and tank farm inspections; Annual training facilitated by outside vendors. RCRA (federal) stands for Resource Conservation Recovery Act. "
+CUR-LSG-BED-EHS-0052,Performing Ergonomic Assessments (Bedford EHS),BED,,,No,Yes,"""Training intended for EHS team only as optional. This topic covers ergonomics, or the science of fitting a job to the worker performing that job. Ergonomic hazards include repetitive stress injuries, carpal tunnel syndrome, and other musculoskeletal disorders (MSDs).
+
+The goal of ergonomics is to reduce a worker’s exposure to MSD risk factors by changing the design of a workstation or the way a job is performed, allowing workers to rotate through different jobs, or providing personal protective equipment (PPE). Although there is currently no specific OSHA standard for ergonomics, employers have a duty to address ergonomic issues under the General Duty Clause of the Occupational Safety and Health Act."""
+CUR-LSG-BED-EHS-0053,OSHA Competent Person Fall Protection Training (Bedford EHS),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"""Competent Person: Fall Protection provides comprehensive online training to become an OSHA-compliant competent person (CP) in the construction industry. These designated employees are tasked with identifying, controlling and correcting fall hazards in the workplace.
+
+Fall protection is crucial for maintaining a safe jobsite and preventing falls that could result in serious injury or death. Our 100% online course satisfies OSHA's fall protection requirements for construction sites. Students can train at their own pace and will receive a certificate of completion after finishing the course. Certificate is to be turned in to the site Training Admin to receive credit in SFLMS and have on file."""
+CUR-LSG-BED-FAC-0003,Air Compressors & Handling Systems (Bedford Facilities),BED,,,No,Yes,
+CUR-LSG-BED-FAC-0006,Chilled Water Distribuiton (Bedford Facilities),BED,,,No,Yes,
+CUR-LSG-BED-FAC-0009,Cold Rooms/Fridges/Freezers (Bedford Facilities),BED,,,No,Yes,Documents pertaining to operation and maintenance to Bedford Campus cold storage.
+CUR-LSG-BED-FAC-0011,Facilities Coordinator (Bedford Facilities),BED,,,No,Yes,
+CUR-LSG-BED-FAC-0012,Facilities New Employee (Bedford Facilities),BED,,,No,Yes,
+CUR-LSG-BED-FAC-0013,Monthly Safety Inspections (Bedford Facilities),BED,,,No,Yes,"Training should cover flushing of eyewash/shower stations, fire extinguisher inspection and filling out inspection tags and paperwork"
+CUR-LSG-BED-FAC-0014,O&M of DI Water System (Bedford Facilities),BED,,,No,Yes,
+CUR-LSG-BED-FAC-0015,O&M of Fume Hoods (Bedford Facilities),BED,,,No,Yes,Overview of operations and maintenance of fume hoods for facilities department.
+CUR-LSG-BED-FAC-0016,Pest Control (Bedford Facilities),BED,,,No,Yes,
+CUR-LSG-BED-FAC-0017,Shutdown & Release Procedure (Bedford Facilities),BED,,,No,Yes,"Procedure established describing the responsibilities and activities that are required to be documented for a plant shutdown, as well as the requirements for returning the facility over to manufacturing after a shut down, with a process for QA approval."
+CUR-LSG-BED-FAC-0018,BED 2 Preston Flammable Cold Room (Bedford Facilities),BED,,,No,Yes,Overview of use and expectations with release of 2 Preston Court Flammable cold room 42B.
+CUR-LSG-BED-FAC-5001,BED Facilities Team Intro Curriculum (Bedford Facilities),BED,,,No,Yes,Curriculum covers Facilities basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-FAC-5002,CHM Facilities Team Intro Curriculum (Bedford Facilities),BED,,,No,Yes,Curriculum covers Facilities basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-FAC-5003,Facilities Coordinator Curriculum (Bedford Facilities),BED,,,No,Yes,"Trainings specific to Facilities coordinators job responsibilities.
+"
+CUR-LSG-BED-FACB-0001,2 Preston Utilities - Bulk Operations (Bedford Facilities),BED,,,No,Yes,High level overview of utilities used for manufacturing technicians. Training consists of a group of Learn Its that require completion of all associated certifications.
+CUR-LSG-BED-FACB-0004,Bedford Facility Utilities,BED,,,No,Yes,Collection of documents pertaining to the utilities at Bedford MA location for Facilities team members
+CUR-LSG-BED-FACB-0010,Daily Building Checks 35 Wiggins/2 Preston Court (Bedford Facilities),BED,,,No,Yes,
+CUR-LSG-BED-FACC-0002,220 Mill Rd Utilities - Bulk Operations (Bedford Facilities),BED,,,No,Yes,Training role for 220 Mill Rd Chelmsford facility utilities overview for manufacturing technicians.
+CUR-LSG-BED-FACC-0005,Chelmsford Facility Utilities (Bedford Facilities),BED,,,No,Yes,Collection of documents pertaining to the utilities at Chelmsford MA 220 Mill Rd location for Facilities team members
+CUR-LSG-BED-FACC-0007,CHM Daily Routine Building Checks (Bedford Facilities),BED,,,No,Yes,Daily rounds checklist for the Chelmsford 220 Mill Rd site to be performed by facilities staff.
+CUR-LSG-BED-FACC-0008,CHM Facilities Plant Restart Procedure (Bedford Facilities),BED,,,No,Yes,Outline of the standardized order of operations to return various plant utilities and systems to normal operation at 220 Mill Road.
+CUR-LSG-BED-GEN-0001,Add New SKU to Supplier (SAP) (Bedford General),BED,,,No,Yes,"This procedure establishes the process for the generation of ideas, the Verification and Validation (V&V) process, and the external notification to customers of changes to products."
+CUR-LSG-BED-GEN-0002,Advanced Design of Experiment (DOE) (Bedford General),BED,,,No,Yes,Offered by external vendor QSG as part of the MA state grant program. Limited availability.
+CUR-LSG-BED-GEN-0003,Advanced Process Validation (Bedford General),BED,,,No,Yes,External vendor led training. Offered thru MA state grant. Limited availability - inquire before assigning or requesting.
+CUR-LSG-BED-GEN-0004,Altoura - PC App Setup and Immersive Trainings (Bedford General),BED,,,No,Yes,"This training session will be to ensure Altoura app is installed on your computer, creation of avatar, practice using headset. Complete Hololens trainings as many times as necessary to become competent along with OJT training roles."
+CUR-LSG-BED-GEN-0005,Basic Data Mining w/Minitab (Bedford Facilities),BED,,,No,Yes,Training offered as part of the MA Training State Program. Limited offering.
+CUR-LSG-BED-GEN-0006,Basic Problem Solving (Bedford General),BED,,,No,Yes,8 hour class offered through QSG and MA state grant Limited Offering.
+CUR-LSG-BED-GEN-0007,BED-FRM New Hire Orientation Toolkit (Bedford General),BED,,,No,Yes,"Training Covers:
+
+
+	Organization Overview
+	Total Rewards Overview
+	Diversity and Inclusion at Thermo Fisher
+	Building Your Career at Thermo Fisher
+	Information Systems, Collaboration Tools & Resources
+	Thermo Fisher Competency Framework
+	Introduction to Quality
+	Customer Allegiance
+	Introduction to PPI
+	Required Training (Ethics, Code of Conduct, etc.)"
+CUR-LSG-BED-GEN-0008,Bedford Site Capital AR Process Training (Bedford Facilities),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0009,Best Documentation Practices (Bedford General),BED,,,No,Yes,Training offered thru our MA state grant with partnership with QSG. Limited availability - please reach out to training coordinator before assigning to team members.
+CUR-LSG-BED-GEN-0010,Bike Share Program (Bedford General),BED,,,No,Yes,"This training is required for participation in the Bedford site bike share program. First, review attached PowerPoint presentation and watch the imbedded training using the link. Next, print out the attached waiver form - read, sign and hand in. Download app to be approved for participation. Last, use app to locate available bike - have fun!!
+"
+CUR-LSG-BED-GEN-0011,CHM New Hire Orientation Toolkit (Bedford General),BED,,,No,Yes,"Training Covers:
+
+
+	Organization Overview
+	Total Rewards Overview
+	Diversity and Inclusion at Thermo Fisher
+	Building Your Career at Thermo Fisher
+	Information Systems, Collaboration Tools & Resources
+	Thermo Fisher Competency Framework
+	Introduction to Quality
+	Customer Allegiance
+	Introduction to PPI
+	Required Training (Ethics, Code of Conduct, etc.)"
+CUR-LSG-BED-GEN-0012,Coaching & Effective Feedback (Bedford General),BED,,,No,Yes,"Pre-work Required: 
+Session 1 Prework: All attendees  - please bring to the first session:
+Throughout the training we will be discussing real-world situations they experience at Thermo Fisher Scientific and they will apply the tools, concepts, and processes from the training with those real-world situations. So, participants are asked to arrive with two-three examples of times when it is difficult for them to deliver feedback to use during our large group discussions as well as during small break-out activities (names and other personally identifying information shall be kept strictly confidential). 
+Please print the attached guide and bring with you to the class."
+CUR-LSG-BED-GEN-0013,Communication Training (Bedford General),BED,,,No,Yes,"8-hour class held on site through Quality Support Group. Focus is on areas to develop your skills which include the following: communication basics, types, non-verbal communication, barriers, communication by listening and feedback."
+CUR-LSG-BED-GEN-0014,Conflict Resolution (Bedford General),BED,,,No,Yes,Limited training offered. Conducted by QSG training partners. 8 hours total.
+CUR-LSG-BED-GEN-0015,Decrement Tag Training (Bedford General),BED,,,No,Yes,"Train to creating an initial decrement tag as well as guidelines to adhere to with each product use till full consumption. Other items to discuss: new tag storage location, tag disposal, importance of stock level accuracy in regards to recording and charging out goods in SAP."
+CUR-LSG-BED-GEN-0016,Department Supervisor/Manager (Bedford General),BED,,,No,Yes,General training and resources for department Supervisors and Managers.
+CUR-LSG-BED-GEN-0017,Developing High Performing Teams (Bedford General),BED,,,No,Yes,"Offered through training partner GROWTH Co as part of our MA state grant offerings. Training is intended for those that manage others in some capacity – Manager/Supervisor, team lead, project manager, etc."
+CUR-LSG-BED-GEN-0018,DMAIC (Bedford General),BED,,,No,Yes,"DMAIC is an acronym that stands for Define, Measure, Analyze, Improve, and Control. It represents the five phases that make up the process: Define the problem, improvement activity, opportunity for improvement, the project goals, and customer (internal and external) requirements.
+This class is offered on a limited bases with external vendor. Please inquire prior to assigning."
+CUR-LSG-BED-GEN-0019,Effective Problem Solving (Bedford General),BED,,,No,Yes,16-hour class offered through QSG and MA state grant. Limited offering. Day 1 of training is the same as the basic problem solving class.
+CUR-LSG-BED-GEN-0020,Excel - Advanced (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0021,Excel - Beginner (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0022,Excel - Intermediate (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0023,Finance Basics (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0024,FMEA (Bedford General),BED,,,No,Yes,Only offered on site every other year or based on need. Training provided through QSG with instructor Jim Leonard. This is a two day training.
+CUR-LSG-BED-GEN-0025,Gauge R & R (Bedford General),BED,,,No,Yes,Class requires Supervisor and department funding approval. Only offered once a year on average or as needed basis and instructed by an external vendor.
+CUR-LSG-BED-GEN-0026,Hololens 2 Training (Bedford General),BED,,,No,Yes,Immersive technologies training for hololens 2 headset used for delivery of mixed reality training modules.
+CUR-LSG-BED-GEN-0027,Intro to Design of Experiments (Bedford General),BED,,,No,Yes,"Two-day training conducted by external vendor. 
+Course covers theories/principles, SPC techniques, basic types of experimental design, and procedure for managing DOE."
+CUR-LSG-BED-GEN-0028,Inventory Control (FIFO) (Bedford General),BED,,,No,Yes,Review of 'First In First Out' principles for inventory use and control that are required standards to know when pulling raw materials for production.
+CUR-LSG-BED-GEN-0029,ISO 13485: 2016 Internal Auditor Workshop (Bedford General),BED,,,No,Yes,This is a 4-hour virtual training session on ISO13485 standards. Offered through QSG at limited availability.
+CUR-LSG-BED-GEN-0030,Leadership Awareness (Bedford General),BED,,,No,Yes,Training offered through our MA state grant training partner GROWTH Co. with limited availability. Training is intended for emerging leaders focus.
+CUR-LSG-BED-GEN-0031,Leadership without Authority (Bedford General),BED,,,No,Yes,"8-hour class held on site through Quality Support Group. Focus is on four specific areas to develop your skills: evaluating yourself and others, cultivating plan/goals, communication, and appreciation.
+This includes a DISC assessment."
+CUR-LSG-BED-GEN-0032,Leading Change (Bedford General),BED,,,No,Yes,Training offered through MA state training grant and QSG. Limited offering.
+CUR-LSG-BED-GEN-0033,Mainsaver 12.9 (Bedford General),BED,,,No,Yes,General system training for facilities and maintenance technicians
+CUR-LSG-BED-GEN-0034,Mainsaver Admin (Bedford General),BED,,,No,Yes,Conducted by Mainsaver. For Facilities and Maintenance system Admins.
+CUR-LSG-BED-GEN-0035,Mainsaver Basics (All) (Bedford General),BED,,,No,Yes,Overview of Facilities system to generate a work order
+CUR-LSG-BED-GEN-0036,Master Scheduling Tool (Bedford General),BED,,,No,Yes,Basic overview for department work order schedulers on how to use the Master Scheduling Tool.
+CUR-LSG-BED-GEN-0037,Measurement Systems Analysis (MSA) (Bedford General),BED,,,No,Yes,*Offered through MA state grant partnership with QSG. Requires Minitab software on laptop and previous training in SPC. Do not assign unless known course offering dates are known.
+CUR-LSG-BED-GEN-0038,Meeting Management,BED,,,No,Yes,"This training is offered on a biannual basis through our MA training grant program with the Quality Support Group.
+
+The training will cover:
+
+
+	Determining your vision, purpose, plan and which people to include
+	Choosing the right setup and establishing the right tone
+	How to prepare better than just “showing up”
+	7 tips to stay on target
+	Dealing with difficult situations and conflict
+	Ensuring all meeting attendees can/do actively participate
+	9 tips to spark creativity
+	Leaving a meeting with goals & objectives
+	Running Effective Team Meetings
+	Preparing for and running meetings that include virtual staff
+	Accountability
+	- Setting expectations before the meeting
+	- Coming to meetings prepared (both meeting leads and attendees)
+	- Being on time
+	- Being present in the meeting – no distractions (don’t have cell phones or laptops open)
+	- Completing actions after the meeting
+	 
+	We will look to answer the questions
+	- Do we have too many meetings?
+	- Can we resolve issues in another way?
+	- Do we need to reset meeting times – 25/45 min meetings"""
+CUR-LSG-BED-GEN-0039,Minitab - Essentials 1 (Bedford General),BED,,,No,Yes,Training offered approximately once per year with Supervisor approval.
+CUR-LSG-BED-GEN-0040,Minitab - Essentials 2 (Bedford General),BED,,,No,Yes,"Training offered approximately once per year with Supervisor approval.
+"
+CUR-LSG-BED-GEN-0041,Minitab - Statistical Quality (Bedford General),BED,,,No,Yes,Training offered approximately once per year with Supervisor approval.
+CUR-LSG-BED-GEN-0042,Outlook - Beginner (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0043,Pipette Basics (Bedford General),BED,,,No,Yes,Learn how to properly use mechanical pipette for accuracy and avoid damage.
+CUR-LSG-BED-GEN-0044,Powerful Presentation (Bedford General),BED,,,No,Yes,"Full day training in partnership with an external training vendor. 
+Training covers topics in the following categories:
+Where to Begin
+Connecting with Your Audience
+Delivering a Powerful Message
+The Final Touch"
+CUR-LSG-BED-GEN-0045,PowerPoint - Advanced (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0046,PowerPoint - Beginner (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0047,PowerPoint - Intermediate (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0048,Principles of Managing Operations (PMO) (Bedford General),BED,,,No,Yes,Limited offering through QSG. 24 hour course.
+CUR-LSG-BED-GEN-0049,Process Mapping (Bedford General),BED,,,No,Yes,16-hour class offered thru QSG. Limited offering. Please check to see if any upcoming opportunities before assigning/requesting.
+CUR-LSG-BED-GEN-0050,Process Validation (Bedford General),BED,,,No,Yes,"This is a 3-day workshop training. Topics covered include: Validation life cycle, planning, IQ/OQ/PQ, risk management, change management, report closure, design controls, master validation plans and importance of statistical methods in determining sample size. Involves completing a validation protocol in class teams."
+CUR-LSG-BED-GEN-0051,Procurement of New Raw Materials (Bedford General),BED,,,No,Yes,"Focus of this training is to ensure there are critical parameters defined on reference COAs for incoming Raw Materials to avoid unnecessary PRs, distinguish critical parameters from non-essential and allow second source process to be more robust ensuring like for like replacements."
+CUR-LSG-BED-GEN-0052,Project Management (16 Hours) (Bedford General),BED,,,No,Yes,Training offered with limited availability through MA state grant. Training to cover project management principles as well as MS Project introduction.
+CUR-LSG-BED-GEN-0053,Risk Management (Bedford General),BED,,,No,Yes,"Offered by Quality Support Group as part of our MA state training grant series. Full day training covers topics such as:
+
+
+	Identifying Risks/Opportunities
+	Risk Mitigation
+	Useful Tools"
+CUR-LSG-BED-GEN-0054,SAP - Charging Out Materials to Work Order (Bedford General),BED,,,No,Yes,"Covers material charge outs against a production work order
+"
+CUR-LSG-BED-GEN-0055,SAP - Charging out Materials by CC (Bedford General),BED,,,No,Yes,Covers material charge outs without a production work order
+CUR-LSG-BED-GEN-0056,SAP - Closing Work Order MFG/QC (Bedford General),BED,,,No,Yes,Specify if training to QA/QC/or MFG processes on OJT form. Covers close out of a work order.
+CUR-LSG-BED-GEN-0057,Standard Work (Bedford General),BED,,,No,Yes,Workshop training offered thru QSG as part of MA state grant. Limited time offering.
+CUR-LSG-BED-GEN-0058,Statistical Concepts (SPC) (Bedford General),BED,,,No,Yes,Statistical process control. Workshop training offered thru QSG as part of MA state grant. Limited time offering.
+CUR-LSG-BED-GEN-0059,Straight Talk (Bedford General),BED,,,No,Yes,Communication course offered through MA state grant partnership - limited availability.
+CUR-LSG-BED-GEN-0060,Supervisory Skills Workshop (Bedford General),BED,,,No,Yes,*Limited Offering* Training is focused on Managers and Supervisors. Consists of six 4 hour sessions for a total of 24 hours of virtual training. Practicing hands on skills reviewed throughout is expected. Participants are expected to attend all sessions.
+CUR-LSG-BED-GEN-0061,Supplier Selection and Management (Bedford General),BED,,,No,Yes,Supplier questionnaire required when requesting for a new vendor in Coupa ordering system. This will need to be set up in E1 for Coupa and SAP for our ordering system. Note for ACH payment setup to have a void check or confirmation letter of bank details with bank header submitted with IT ticket for setup.
+CUR-LSG-BED-GEN-0062,Supply Chain Management (Bedford General),BED,,,No,Yes,"24-hour course on Supply Chain Management principles. Offered through QSG, partners in MA state grant offerings. Limited offering."
+CUR-LSG-BED-GEN-0063,Supply Chain Risk Management (Bedford General),BED,,,No,Yes,
+CUR-LSG-BED-GEN-0064,Team Building (Bedford General),BED,,,No,Yes,"This training is offered through our MA training grant program with the Quality Support Group. Topics include:
+
+
+	Understanding Team Dynamics
+	Stages of Team Development
+	Managing Conflict on Teams
+	Communication
+	Leveraging Differences"
+CUR-LSG-BED-GEN-0065,Technical Writing (Bedford General),BED,,,No,Yes,"Offered through external training company, Pathwise."
+CUR-LSG-BED-GEN-0066,Training Admin - Classroom Completions (Bedford General),BED,,,No,Yes,"Training to cover the review, upload and filing requirements of classroom roster forms"
+CUR-LSG-BED-GEN-0067,Training Admin - OJT Form Review and Processing (Bedford General),BED,,,No,Yes,"Training target audience is for training system admin that will be processing OJT forms for completion. Training consists of learning areas of possible error, how to process/scan/file OJT forms without issues/corrected, and how to action corrections where errors are found."
+CUR-LSG-BED-GEN-0068,Training Admin - System Creation & Updates (Bedford General),BED,,,No,Yes,Training covers creation of new training roles following established guidelines and changes to existing training roles with follow up actions required.
+CUR-LSG-BED-GEN-0069,Training: Content: Train the Trainer (Bedford General),BED,,,No,Yes,"Limited offering. Focus on adult learning principles, training approach determination and content development for self-paced and classroom content - will touch on facilitation."
+CUR-LSG-BED-GEN-0070,Training: Learn It Creator (Bedford General),BED,,,No,Yes,"Basic information on what to consider in creating training deck, process overview, corporate template, and checklist form for learn it submission for training system update."
+CUR-LSG-BED-GEN-0071,Training: OJT - Train the Trainer (Bedford General),BED,,,No,Yes,Training provided by Business Training Works facilitated virtually (external vendor). This is a requirement to becoming a work center certified trainer to provide on the job training to incoming trainees. Reach out to Ragna Ferguson to arrange training schedule.
+CUR-LSG-BED-GEN-0072,Training: OJT Trainer Intro Session (Bedford General),BED,,,No,Yes,Intro to on-the-job training facilitation basics for role expectations and responsibilities. To be assigned with trainer basics training. Additional training as well as development assessments will be conducted as follow up.
+CUR-LSG-BED-GEN-0073,Training: Trainer Basics (Bedford General),BED,,,No,Yes,Classroom training offered upon request or need basis.
+CUR-LSG-BED-GEN-0074,Training: TWIST (Bedford General),BED,,,No,Yes,TWI Job Instruction work shop consists of five 2-hr sessions with a post workshop certification session. This is required for all department trainers following completion of the OJT intro session.
+CUR-LSG-BED-GEN-0075,Training: TWIST Intro for Supervisors (Bedford General),BED,,,No,Yes,"This classroom requires a minimum of 4 to 5 individual participants to be scheduled. This is the shortened version 3-Day intro to TWIST for Supervisors to get exposure to the TWI job instruction methodology to better understand expectations of team trainers and time required for prep and execution of training in order to better select team members to nominate for this important role. There will be focus on training as a strategy approach with proper scheduling, evaluation of needs and planning."
+CUR-LSG-BED-GEN-0076,ISO13485 Overview (Bedford General),BED,,,No,Yes,This is a 4-hour virtual training session on ISO13485 standards. Offered through QSG at limited availability.
+CUR-LSG-BED-GEN-5001,Basic onboarding Bedford Site Curriculum (Bedford),BED,,,No,Yes,Welcome to the PPA MA sites Bedford location. Curriculum consists of high level introductory trainings that are required for all employees prior to starting department/job specific training.
+CUR-LSG-BED-GEN-5002,Basic onboarding Curriculum (Bedford Remote),BED,,,No,Yes,Welcome to the PPA MA sites Bedford and Chelmsford locations. Curriculum consists of high level introductory trainings that are required for all employees prior to starting department/job specific training.
+CUR-LSG-BED-GEN-5003,Basic onboarding Chelmsford Site Curriculum (Bedford),BED,,,No,Yes,Welcome to the PPA MA sites Chelmsford location. Curriculum consists of high level introductory trainings that are required for all employees prior to starting department/job specific training.
+CUR-LSG-BED-GEN-5004,Excel Curriculum (Bedford),BED,,,No,Yes,"Covers beginner, intermediate and advanced excel functions modules."
+CUR-LSG-BED-GEN-5005,Minitab Curriculum (Bedford),BED,,,No,Yes,Training for only those that will require Minitab software to perform job functions. Includes Essentials 1 &2 and Statistical Quality (Pharma Industry option preferred). Requires prior approval due to costs associated with external vendor training. Needs to be discussed with site Training Manager ahead of assignment for scheduling purposes.
+CUR-LSG-BED-GEN-5006,PowerPoint Curriculum (Bedford),BED,,,No,Yes,"Covers beginner, intermediate and advanced PowerPoint functions modules."
+CUR-LSG-BED-GEN-5007,Department Trainer Curriculum (Bedford),BED,,,No,Yes,"Training only for those that have been approved for department trainer development based on performance, meeting minimum trainer requirements as stated in procedure 100049313 and department need for additional trainers (trainers assigned to specific curricula)"
+CUR-LSG-BED-GEN-5008,Department Supervisor Curriculum (Bedford),BED,,,No,Yes,Collection of trainings relevant for department Supervisors
+CUR-LSG-BED-GEN-5009,Training Admin Curriculum (Bedford),BED,,,No,Yes,Training required for active site training admins supporting training program.
+CUR-LSG-BED-GEN-5010,Department Scheduler Curriculum (Bedford),BED,,,No,Yes,Trainings relevant to individuals performing department scheduling.
+CUR-LSG-BED-GEN-5011,IQ/OQ Commissioning Contractors (Bedford),BED,,,No,Yes,"Collection of trainings relevant for contractors performing IQOQ services to support commissioning efforts. Includes basic safety training, Delta V, bulk operation utilities overviews, MOC, and Kneat system. Request OCPLM training if needed.
+Intended for those that will have Thermo Fisher credentials to complete in training system."
+CUR-LSG-BED-GEN-5012,Onboarding External Contractors (Bedford),BED,,,No,Yes,Trainings required for those onboarding external contractors performing work on site that do not have Thermo Fisher credentials to access training system themselves. This includes safety requirement video/quiz and good documentation practices.
+CUR-LSG-BED-MFG-0001,New POROS Employee (Bedford POROS),BED,,,No,Yes,Includes introductory training on a variety of topics. Required for all POROS technicians.
+CUR-LSG-BED-MFG-0002,POROS Employee Quarterly (Bedford POROS),BED,,,No,Yes,Trainings required to be taken every 90 days for all Large Scale POROS operators.
+CUR-LSG-BED-MFG-0003,POROS Employee Annually (Bedford POROS),BED,,,No,Yes,Trainings required to be taken every 365 days for all Large Scale POROS operators.
+CUR-LSG-BED-MFG-0004,General Glassware Cleaning (Bedford POROS),BED,,,No,Yes,Training to cover cleaning solution make-up as well as cleaning basics
+CUR-LSG-BED-MFG-0005,Lg. Scale R Aqueous Phase (Bedford POROS),BED,,,No,Yes,"Training consists of material staging and equipment prep for line clearance. Material charges/MSDS of Natrosol and Celvol, as well as SDS, Sodium Carbonate, and Sodium Chloride should be reviewed. Delta-V recipe functionality should be explained. Additionally, since two different vessels in two different rooms can be used for aqueous phase production, functionality of both V-2550 and V-1300 should be reviewed. Key differences seen with V-1300 include recipe differences, valve preparation of the TCU, as well as transfer line assembly."
+CUR-LSG-BED-MFG-0006,Lg. Scale R Organic Phase (Bedford POROS),BED,,,No,Yes,"Training should cover material staging and equipment prep for line clearance. Material charges/MSDS for EHA, Toluene, Pentanol, Styrene, DVB, Alumina , and Benzoyl Peroxide. Delta V recipe functionality should be reviewed. Training should cover the Organics Prep process (charging the 1st 3 materials to V-2120, Charging DVB to the unstripped pressure can, Packing and Pressure Testing the Alumina DVB Strip column, and pre-weighing the Benzoyl Peroxide)"
+CUR-LSG-BED-MFG-0007,Organic Prep Reactor/Equipment Cleaning (Bedford POROS),BED,,,No,Yes,Training should cover the process to clean V-2120 after an organic phase has been transferred to polymerization as well as cleaning the pressure cans and DVB strip column after use with acetone. Ensure to cover nitrogen purges to dry out the acetone prior to storage of equipment.
+CUR-LSG-BED-MFG-0008,Process Water Washes (Bedford POROS),BED,,,No,Yes,"""*Includes hot water washes
+*Includes Setup and pH filtrate checks following rxns in products such as EP and OH products"""
+CUR-LSG-BED-MFG-0009,Acetone/Methanol/THF Washes (Bedford POROS),BED,,,No,Yes,"Training should cover the process of taking a filter cake in a Nutsche, charging one of these three solvents through Delta V, performing the mix wash both for ambient washes and heated washes, and filtering the wash back to a filter cake to prepare the batch for the following wash. Ensure to review Delta V recipe operation and explain the differences between V-24XX and V-25XX. This role covers solvent washes on coated resin as well as solvent washes during Product Recovery"
+CUR-LSG-BED-MFG-0010,Lg. Scale R Product Recovery (Bedford POROS),BED,,,No,Yes,*Includes NaOH addition and transfer process post sonication
+CUR-LSG-BED-MFG-0011,Elutriation Cone Cleaning (Bedford POROS),BED,,,No,Yes,"This training should cover the process of cleaning Elutriation cones. Covering how to make 2% detergent 8 solution for cleaning, the proper disassembly, cleaning, and then reassembly of the bottom assemblies of the elutriation cones as well as proper cleaning technique for the PVC portions of the elutriation cones."
+CUR-LSG-BED-MFG-0012,1515L Elutriation Cone Cleaning (Bedford POROS),BED,,,No,Yes,Training to cover how to safety and effectively clean the large 1515 liter elutriation cones.
+CUR-LSG-BED-MFG-0013,EcoLift70 Operation (Bedford POROS),BED,,,No,Yes,Training to cover how to safely use and operate the EcoLift70
+CUR-LSG-BED-MFG-0014,Polymerization - Decant/Acetone (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0015,Lg. Scale R Sonication (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0016,Plugflow Process Water Washes (Bedford POROS),BED,,,No,Yes,*Includes Setup and pH filtrate checks following rxns
+CUR-LSG-BED-MFG-0017,1M Sulfuric Acid Make-up (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0018,Sulfuric Acid Washes (Bedford POROS),BED,,,No,Yes,"""*Acid Prep Tank operation
+*Acid Prep Tank Manifold                                                                                                                                                                                                                        """
+CUR-LSG-BED-MFG-0019,Sulfuric Acid Fitrate Spectramax Testing (Bedford POROS),BED,,,No,Yes,"This training will cover the proper method for collecting Acid Wash filtrate samples in the HS250 and XS process, how to test these samples on the Spectramax instrument for fluorescence, and how to report these results."
+CUR-LSG-BED-MFG-0020,pH Meter Operation (Bedford POROS),BED,,,No,Yes,Use of intrinsically safe pH meter/probe for bulk operations
+CUR-LSG-BED-MFG-0021,Plugflow Sulfuric Acid Washes (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0022,XQ Neutralization and Transfer (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0023,Elutriation - Mode Sampling (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0024,Elutriation - Decontamination (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0025,Elutriation - Roiling (Bedford POROS),BED,,,No,Yes,For XS and XQ batches.
+CUR-LSG-BED-MFG-0026,Elutriation - Decant/ETOH/PSF Sampling (Bedford POROS),BED,,,No,Yes,"Training should cover ensuring the bed has settled sufficiently, shutting of the process water flow, decanting the process water to the specified volume in the batch record, filling the pressure can with ethanol, charging the pressure can of ethanol to the elutriation cone, sparging with nitrogen, checking to ensure uniformity with a paddle, and proper sample pulling for Process Scale Fines testing. For BED2177_AL and later revisions, training should also cover properly pulling a sample, inspecting it for contaminants, and returning it to the cone.  Training should also cover in the future, the addition of NaOH instead of Ethanol in the instance of products packaged in Sodium Hydroxide instead of ethanol and extra safety precautions to be put in place."
+CUR-LSG-BED-MFG-0027,Elutriation - PBH Adjust/Carboy Inspection (Bedford POROS),BED,,,No,Yes,"PBH Adjustments/Carboy Inspection/Rinsing – Training should cover receiving Process scale fines results from QC, making the adjustments to the slurry concentration if necessary and restarting the sparge on each cone to ensure uniformity prior to discharging. Training will also cover gathering carboys, inspecting carboys for defects, and rinsing the inside of the carboys to remove any potential contaminants"
+CUR-LSG-BED-MFG-0028,Elutriation - Decant & Sample (100ml) (Bedford POROS),BED,,,No,Yes,"Training should cover ensuring the bed has settled sufficiently, shutting of the process water flow, decanting the process water to the specified volume in the batch record, filling the pressure can with ethanol, charging the pressure can of ethanol to the elutriation cone, sparging with nitrogen, checking to ensure uniformity with a paddle, and proper sample pulling for Process Scale Fines testing. To cover properly pulling a sample, inspecting it for contaminants, and returning it to the cone."
+CUR-LSG-BED-MFG-0029,Elutriation Discharge Process - 1L Fill (Bedford POROS),BED,,,No,Yes,"Training should cover staging line clearance for 1 L fills including gathering plastic bags, product inserts, shrink bands and 2 L Nalgene bottles from inventory. The training will cover the process of filling these containers, labeling these containers, shrink banding the containers properly and placing the bottle and insert into a plastic bag. Review storage of 1 L fills in  plastic bins with proper signage and labeling to show it is bulk that is quarantined and packaged as finished goods."
+CUR-LSG-BED-MFG-0030,Elutriation Discharge - 5L & 10L Fills (Bedford POROS),BED,,,No,Yes,Training should cover staging line clearance for 5 L and 10 L fills (if doing Finished goods packaging) and filling to the 5 L and 10 L fill sizes. It will also cover storage of carboys in black totes as well as proper signage and labeling to show that it is bulk that is quarantined and packaged as finished goods. Each carboy should get a finished goods label as well as a bulk quarantine label.
+CUR-LSG-BED-MFG-0031,Bioburden/Endotoxin Sampling (Bedford POROS),BED,,,No,Yes,This training should cover the proper aseptic technique of bioburden and endotoxin sampling of POROS products that are sampled directly in the elutriation room during final product discharge.
+CUR-LSG-BED-MFG-0032,Elutriation Discharge - Bulk to FG in SAP (Bedford POROS),BED,,,No,Yes,"This training will cover the process of closing the bulk and finished goods work orders where we package bulk as finished good. It will go over charging raw materials to the bulk, closing the time ticket on the bulk and putting the bulk to stock. It will then go over moving the bulk used for finished goods to unrestricted inventory and then charging that and other raw materials to the finished good work order, closing that time ticket and putting the finished goods to stock. It must all complete in one sitting."
+CUR-LSG-BED-MFG-0033,Packaging-Labeling (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0034,Aqueous Phase Reactor Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0035,Sonication Tank Cleaning (Bedford POROS),BED,,,No,Yes,"This training is for the cleaning of V-2210 - BED7176 and V-2510 - 100099340. Includes LO/TO practices, documentation, cleaning process/set-up and expectations."
+CUR-LSG-BED-MFG-0036,Polymerization Reactor Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0037,XQ Reactor Cleaning Process (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0038,1.0/1.1 M2 Nutsche Cleaning (Bedford POROS),BED,,,No,Yes,"""-LEL meter use and operation
+-Multigas meter use and operation
+-LOTO
+-Training should encompass differences among Nutsches"""
+CUR-LSG-BED-MFG-0039,0.5 M2 Nutsche Cleaning (Bedford POROS),BED,,,No,Yes,*Includes V-2420 and V-1450. Use of stand for bottom plate and tighten method of J-bolts is unique to these smaller vessels.
+CUR-LSG-BED-MFG-0040,AMPSA Prep Reactor Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0041,Product Neutralization (Bedford POROS),BED,,,No,Yes,"""*Covers addition of 50% Sodium Hydroxide to neutralize sulfuric acid washed resin
+*Should assign use of in batch 1015 pH meter operation training role"""
+CUR-LSG-BED-MFG-0042,Transfer from Vessel to Cones (Bedford POROS),BED,,,No,Yes,"*Includes setup, transfer, and clean up"
+CUR-LSG-BED-MFG-0043,Vessel to Vessel Product Transfer (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0044,Lg. Scale R Polymerization RXN (Bedford POROS),BED,,,No,Yes,"This training should cover the transfers of Aqueous and Organic phases from their respective vessels to the polymerization vessel, ensure correct agitation is set, performing the 2-2.5 hour nitrogen purge, and starting the ramp. Delta V recipe operations should be reviewed at this point as well."
+CUR-LSG-BED-MFG-0045,Solvent Charges from Drums (Bedford POROS),BED,,,No,Yes,"""*Includes setup and documentation of deviation when tank farm bulk is not available
+*Documentation should include line clearance, charges, sign-offs and recording lots on work order for charging out materials"""
+CUR-LSG-BED-MFG-0046,Staging of In-Process POROS for Shipping (Bedford POROS),BED,,,No,Yes,"This training should cover the steps required from discharge to handoff to distribution. It will also serve as introduction to the shipping form, which will have tabs for documenting the transfer, discharge from post-sonication to drums, discharge post-product recovery to drums, and post-drying to drums, as well as loading into a Nutsche and loading into a dryer (6 tabs)."
+CUR-LSG-BED-MFG-0048,Facility Cleaning of POROS Production Areas (Bedford POROS),BED,,,No,Yes,Training is focused on performing the cleaning responsibilities of the POROS production suites and manufacturing rooms
+CUR-LSG-BED-MFG-0049,Drum Lift Operation (Bedford POROS),BED,,,No,Yes,How to safely and properly operate the drum lift equipment with an SS Drum for the purpose of cleaning drums in the MFG suite.
+CUR-LSG-BED-MFG-0050,Hose Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0051,Nutsche Discharging Process (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0052,Heel Filter Recovery (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0053,Lg. Scale R Sampling Dryers (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0054,Moisture Balance Operation (Bedford POROS),BED,,,No,Yes,"Training consist of basic operation using POROS Dry recipe, how to change recipe, as well as the steps during sample prep/test run/clean up."
+CUR-LSG-BED-MFG-0055,Tumble Dryer Loading (Bedford POROS),BED,,,No,Yes,"This training is to cover placing of drum of POROS securely, safety gate use, loading actions, drum removal and Delta V use for drying recipe start."
+CUR-LSG-BED-MFG-0056,Tumble Dryer Discharging (Bedford POROS),BED,,,No,Yes,Training to cover steps following passing moisture spec to safely discharge into SS drums. *Assign with SAP intermediate for SAP close out of work order following.
+CUR-LSG-BED-MFG-0057,POROS Lab Sieving (Bedford POROS),BED,,,No,Yes,Training to cover how to sieve POROS for QC sample submission following discharge from dryer for R450. To be carried out in the POROS lab hood.
+CUR-LSG-BED-MFG-0058,Dryers - Empty Trap/Reduce Torr (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0059,BED Vacuum Tumble Dryer Cleaning (Bedford POROS),BED,,,No,Yes,Covers cleaning of both small and large dryers
+CUR-LSG-BED-MFG-0060,"Adsorption Reaction (OH, HS, XS, EP) (Bedford POROS)",BED,,,No,Yes,
+CUR-LSG-BED-MFG-0061,Powder Transfer System Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0062,"Crosslink Reaction (OH, HS, XS, EP) (Bedford POROS)",BED,,,No,Yes,
+CUR-LSG-BED-MFG-0063,GTMAC Reaction (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0064,PEI Reaction (Bedford POROS),BED,,,No,Yes,*Training to include use of PTS
+CUR-LSG-BED-MFG-0065,PEI HCl Neutralization Role (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0066,XS % Solids Adjustment (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0067,AMPSA/Ceric Reaction (HS) (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0068,AMPSA/Ceric Reaction (XS) (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0069,XQ APTAC Dilution (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0070,XQ APTAC Stripping (Bedford POROS),BED,,,No,Yes,"Training covers prep, stripping process and turbidity testing for 20KG and 26.4KG scales."
+CUR-LSG-BED-MFG-0071,XQ APTAC Strip 20cmD Column Setup (Bedford POROS),BED,,,No,Yes,Training covers column setup and handling.
+CUR-LSG-BED-MFG-0072,XQ APTAC Strip Blending (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0073,XQ Grafting (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0074,XQ Quench/Transfer (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0075,CAN Solution Prep (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0076,HIC TPTGE Adsorption (Bedford POROS),BED,,,No,Yes,"""Training should include RXN prep, raw material charges, sampling, calculation/adjustment of % solids, calculation of TPTGE addition and hold initiation/monitoring
+*Training starts from batch start and ends with 21 degree hold (16 hours)."""
+CUR-LSG-BED-MFG-0077,HIC BzGE Coupling RXN (Bedford POROS),BED,,,No,Yes,"""Training should include RXN prep, raw material charges, sampling, calculation/adjustment of % solids and hold initiation and monitoring
+*Training starts following TPTGE RXN washes and ends with RXN hold completion."""
+CUR-LSG-BED-MFG-0078,HIC TPTGE Crosslink RXN (Bedford POROS),BED,,,No,Yes,"""Training should include RXN prep, raw material charges and RXN initiation and monitoring
+*Training starts from NaOH charge and ends with RXN hold completion (21 hours)."""
+CUR-LSG-BED-MFG-0094,Flow Meter Verification (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0095,POROS Bulk Storage (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0096,POROS Pooling (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0097,Elutriation - 115L Biotank Fill Process (Bedford POROS),BED,,,No,Yes,"""Covers both 60L & 65L Fills
+Training includes finished goods discharge process for XS and HQ into 115L biotanks.  XS - discharging directly into biotanks from cones and adjusting fill weight from carboys.  HQ - discharging into 20L carboys and adding to biotanks to appropriate fill range.  Contains sampling for full batch tests, bioburden, and endotoxin."""
+CUR-LSG-BED-MFG-0098,Biogen HQ150 Pooling (V-2210) (Bedford POROS),BED,,,No,Yes,"Review process of staging FG HQ150 material to be pooled, Re-Slurrying resin in carboys, pulling resin from carboys into V-2210 by vacuum, sparging in V-2210 prior to transferring to elutriation"
+CUR-LSG-BED-MFG-0099,Biogen HQ150 Packaging/Labeling (Bedford POROS),BED,,,No,Yes,"Review process of taking filled 115 L biotanks (65 L fills) to the finished goods state by labeling biotanks, packaging material, and pallets to detail all required labeling for Biogen."
+CUR-LSG-BED-MFG-0100,Filtration to Drums (Bedford POROS),BED,,,No,Yes,"Training should cover gathering drums for filtration collection, proper labeling of drums for Waste or Holding, proper set up of hose/dip tube to feed into the drums, any PPE requirements that are needed and technique revolving the actual filtration and any blow through that may need to occur."
+CUR-LSG-BED-MFG-0101,Transfer - Cone to Vessel (Bedford POROS),BED,,,No,Yes,"Training to cover prep, set-up, use of vacuum and clean up."
+CUR-LSG-BED-MFG-0102,POROS Scrap Process- Dry Beads (Bedford POROS),BED,,,No,Yes,This training focuses on the disposal of scrapped dry POROS created in the Large Scale POROS suite
+CUR-LSG-BED-MFG-0103,POROS Scrap Process - Slurried Beads (Bedford POROS),BED,,,No,Yes,This training focuses on the disposal of scrapped wetted POROS created in the Large Scale POROS suite
+CUR-LSG-BED-MFG-0104,Adsorption RXNs in 0.5M Nutsche (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0114,DM50 Coating RXN (Bedford POROS),BED,,,No,Yes,*Includes charging POROS via PTS
+CUR-LSG-BED-MFG-0115,DM50 Nitric Acid Prep (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0116,Oxygen Meter Operation (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0117,EP150/EP450 DEG RXN (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0118,EP150/EP450 TPTGE RXN (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0119,EP250 PEG RXN (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0120,EP250 Budge RXN (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0123,POROS Cleaning Management Overview (Bedford POROS),BED,,,No,Yes,*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. Utilize this training role as a general overview of cleaning and basewashing in POROS Manufacturing for information only purposes.
+CUR-LSG-BED-MFG-0124,POROS R MFG 1: Intro/Aqueous Management Overview (Bedford POROS),BED,,,No,Yes,"*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. Utilize this training role as a general overview of the R Process Aqueous phase. It includes Batch Records for manufacturing R bead, UOPs, Cleaning sheets, and LOTO SOPs for associated vessels, and learn it’s for the process."
+CUR-LSG-BED-MFG-0125,POROS R MFG 2: Organics/Polymerization Management Intro,BED,,,No,Yes,"*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. Utilize this training role as a general overview of the R Process Organics phase and Polymerization process. It includes UOPs, Cleaning sheets, and LOTO SOPs for associated vessels, and learn it’s for the process."
+CUR-LSG-BED-MFG-0126,POROS R MFG 3: Sonication Management Overview (Bedford POROS),BED,,,No,Yes,"*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. Utilize this training role as a general overview of the R Sonication Process and Product Recovery. It includes UOPs, Cleaning sheets, and LOTO SOPs for associated vessels, and learn it’s for the process.
+"
+CUR-LSG-BED-MFG-0127,POROS Nutsche Washes/Discharge Management Overview (Bedford POROS),BED,,,No,Yes,"*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. General Overview to review Learn Its associated with Nutsche Washes and Discharge as cake from Nutsches.
+"
+CUR-LSG-BED-MFG-0128,POROS Dryer Processes Management Overview (Bedford POROS),BED,,,No,Yes,"*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. Utilize this training role as a general overview of the Dryer operation, discharge and cleaning processes. It includes UOPs, Cleaning sheets, and LOTO SOPs, and learn it’s for the processes.
+"
+CUR-LSG-BED-MFG-0129,BED Nutsche Operation Management Overview (Bedford POROS),BED,,,No,Yes,"*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. Utilize this training role to familiarize yourself with Bedford 2 Preston Court Nutsche Unit Operating Procedures, Lock Out Tag Out Procedures, and Cleaning procedures.
+"
+CUR-LSG-BED-MFG-0131,POROS Elutriation Process Management Overview (Bedford POROS),BED,,,No,Yes,"*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. Utilize this training role to familiarize yourself with the Elutriation Room Processes including sampling, cleaning, discharging, etc.
+"
+CUR-LSG-BED-MFG-0132,POROS Manufacturing Scrapping Process Management Overview (Bedford POROS),BED,,,No,Yes,"Training for POROS Managers and Supervisors on the POROS scrap processes.
+"
+CUR-LSG-BED-MFG-0133,POROS Lg. Scale R Batch Records/Flow Diagrams (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks. 
+"
+CUR-LSG-BED-MFG-0134,POROS EP150/450 Batch Records (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0135,POROS OH Batch Records (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0136,POROS Lg. Scale HS & XS Coated Batch Records (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0137,POROS Lg. Scale XQ Coated Batch Record (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0138,POROS Lg. Scale HQ Coated Batch Records (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0139,POROS Sm. Scale R Batch Records (Bedford POROS),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Batch records of reference for assigned curriculum training tasks. 
+"
+CUR-LSG-BED-MFG-0140,BDX Batch Records  (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks. 
+"
+CUR-LSG-BED-MFG-0141,POROS EP250 Batch Record/Flow Diagram (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0142,POROS PI150 Batch Record (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0143,POROS HIC Batch Record (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0144,POROS DM50 Batch Record (Bedford POROS),BED,,,No,Yes,"Batch records of reference for assigned curriculum training tasks.
+"
+CUR-LSG-BED-MFG-0145,Bedford 1.0 & 1.1M2 Hastelloy Nutsches POROS production (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0146,Chelmsford 1.0 & 1.1M2 Hastelloy Nutsches POROS production (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0147,Bedford 1.0M2 Stainless Steel Nutsche POROS production (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFG-0148,Waste Station Filter Change (Bedford POROS),BED,,,No,Yes,This training will cover the best practices that should be conducted for all waste station filter changes. Will cover the safe operation and changing of the waste station filter bag. 
+CUR-LSG-BED-MFG-0150,CHM Vacuum Tumble Dryer Cleaning (Bedford POROS),BED,,,No,Yes,Covers cleaning of large dryers located at the Chelmsford location.
+CUR-LSG-BED-MFG-5001,POROS Large Scale Intro Curriculum (Bedford POROS),BED,,,No,Yes,"Curriculum covers POROS basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+"
+CUR-LSG-BED-MFG-5002,QC Intro for MFG In-Process Testers Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Required pre-req for all manufacturing technicians training to QC In-process testing.
+"
+CUR-LSG-BED-MFG-5003,POROS MFG In-Process Testing Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training consists of all POROS in-process testing that is approved for MFG technicians to train to as well as overview of QC glassware cleaning requirements (if needed) and data review. This should only be assigned to those technicians that will be supporting all in-process testing responsibilities. 
+"
+CUR-LSG-BED-MFG-5004,POROS Polymerization Curriculum (Bedford POROS),BED,,,No,Yes,"Tech 1 +. Training covers Aqueous phase, Organic phase and polymerization of R base bead production."
+CUR-LSG-BED-MFG-5005,POROS Sonication Curriculum (Bedford POROS),BED,,,No,Yes,Tech 1 +. Training covers decant post-polymerization thru sonication steps of R base bead production.
+CUR-LSG-BED-MFG-5006,POROS Product Recovery Curriculum (Bedford POROS),BED,,,No,Yes,"Tech 1 +. Training covers product recovery post sonication start steps of R base bead production prior to water and solvent washes as well as cake discharge, Nutsche cleaning requirements."
+CUR-LSG-BED-MFG-5007,POROS BED Drying Curriculum (Bedford POROS),BED,,,No,Yes,Tech 1 +. Training covers tumble dryer process related trainings as well as SAP transactions for production order close out.
+CUR-LSG-BED-MFG-5008,POROS BED Elutriation Curriculum (Bedford POROS),BED,,,No,Yes,Tech 1 +. Training covers elutriation process related trainings as well as SAP transactions for production order close out. Includes large cone operations.
+CUR-LSG-BED-MFG-5009,POROS Intermediates 1 Curriculum (Bedford POROS),BED,,,No,Yes,"Tech 2 +. Training covers adsorption rxn, powder transfer system, nutsche discharging with heel filter and transfers to/from elutriation."
+CUR-LSG-BED-MFG-5010,POROS Intermediates 2 Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training covers EP150/450 RXNs, nutsche discharging with heel filter, transfers to/from elutriation and filtering to drums."
+CUR-LSG-BED-MFG-5011,POROS Coated Curriculum (Bedford POROS),BED,,,No,Yes,"Tech 2 +. Training covers XQ quench, transfer, neutralization/transfer, reactor cleaning, sulfuric acid makeup/washes, and filtration to drums."
+CUR-LSG-BED-MFG-5012,POROS XQ Strip Curriculum  (Bedford POROS),BED,,,No,Yes,Senior Tech +. Training covers APTAC strip process and CAN solution prep.
+CUR-LSG-BED-MFG-5013,POROS Batch Start Advanced Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training covers XQ graft, adsorption RXN, powder transfer system cleaning and CAN solution prep."
+CUR-LSG-BED-MFG-5014,POROS AMPSA Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training covers AMPSA RXNs, AMPSA reactor cleaning, sulfuric acid makeup/washes, product neutralization, plugflows and  % solids adjustment."
+CUR-LSG-BED-MFG-5015,POROS Crosslink RXN Curriculum (Bedford POROS),BED,,,No,Yes,"Tech 2 +. Training covers crosslink RXN, acid makeup/washes, plugflows, and neutralization."
+CUR-LSG-BED-MFG-5016,POROS PEI/GTMAC RXN Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training covers both PEI and GTMAC RXNs, adsoption RXN, Powder Transfer System cleaning and filtration to drums."
+CUR-LSG-BED-MFG-5017,BDX PAO/PCH Curriculum (Bedford POROS),BED,,,No,Yes,"Tech 2 +. Training covers screening/transfer of PAO and PCH, 0.5 M2 Nutsche Cleaning and how to clean the screen/filter press equipment."
+CUR-LSG-BED-MFG-5018,BDX SAM Curriculum (Bedford POROS),BED,,,No,Yes,"Tech 1 +. Training covers SAM formulation, discharge and vessel cleaning."
+CUR-LSG-BED-MFG-5019,POROS HQ150 Biogen Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training covers 115L Biotank fill process, POROS pooling and packaging/labeling for 115L Biotank."
+CUR-LSG-BED-MFG-5020,POROS DM50 Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training covers DM50 coating, nitric acid prep, O2 meter operation and pH meter operation."
+CUR-LSG-BED-MFG-5021,POROS EP250 Curriculum (Bedford POROS),BED,,,No,Yes,Senior Tech +. Training covers EP250 PEG and Bedge RXNs only.
+CUR-LSG-BED-MFG-5022,BDX Xterm Curriculum (Bedford POROS),BED,,,No,Yes,Tech 2 +. Training covers all required steps for Xterm production starting with screened PAO/PCH.
+CUR-LSG-BED-MFG-5023,POROS Small Scale R Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training covers entire small scale R production steps from polymerization through sedimentations, drying and classification."
+CUR-LSG-BED-MFG-5024,POROS HIC Curriculum (Bedford POROS),BED,,,No,Yes,"Senior Tech +. Training covers HIC TPTGE adsorption, BzGE Coupling and TPTGE Crosslink RXN."
+CUR-LSG-BED-MFG-5025,POROS CHM Team Supervisors/Team Leads Curriculum (Bedford POROS),BED,,,No,Yes,Team process and production overview information for POROS department Supervisors and team leads.
+CUR-LSG-BED-MFG-5026,POROS BED Team Supervisors/Team Leads Curriculum (Bedford POROS),BED,,,No,Yes,Team process and production overview information for POROS department Supervisors and team leads.
+CUR-LSG-BED-MFG-5027,POROS CHM Drying Curriculum (Bedford POROS),BED,,,No,Yes,Tech 1 +. Training covers tumble dryer process related trainings as well as SAP transactions for production order close out. Excludes POROS lab sieving (currently only done in Bedford)
+CUR-LSG-BED-MFG-5028,POROS CHM Elutriation Curriculum (Bedford POROS),BED,,,No,Yes,Tech 1 +. Training covers elutriation process related trainings as well as SAP transactions for production order close out. Excludes large cone operations.
+CUR-LSG-BED-MFG-5029,POROS Manager Curriculum (Bedford POROS),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Curriculum covers POROS basic trainings all department Manager will need to take as part of onboarding training.
+"
+CUR-LSG-BED-MFG-5030,POROS Production Overview Curriculum (Bedford POROS),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,Curriculum covers example documents/sops and process basics for R bead and coated product steps. ONLY Intended for those that will not being training to area production tasks and does not certify to perform any task upon completion.
+CUR-LSG-BED-MFGB-0079,BDX - PAO/PCH Screening/Transfer (Bedford POROS),BED,,,No,Yes,"Training consists of staging materials, equipment prep of screens/transfer line/V-1450 receiving vessel, review of what 'flocculation' is and what will occur if resins are mixed accidentally, operation of screens with Lo/To, differences between PAO & PCH"
+CUR-LSG-BED-MFGB-0080,BDX - PAO/PCH Discharge from V-1450 (Bedford POROS),BED,,,No,Yes,"""Training includes discharge prep, discharge, sampling, dry weight calculation & labeling
+*Note - Assign '% Solids' QC training role if training to run in-process testing"""
+CUR-LSG-BED-MFGB-0081,BDX - Xterm Discharging/Packaging V-1470 (Bedford POROS),BED,,,No,Yes,"Training consists of Xterm discharge into carboys, contaminant inspection, expiration date calculation, Delta V temp profile print outs, sampling."
+CUR-LSG-BED-MFGB-0082,BDX - Solids Adjustment Vessel Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0083,BDX - PASA and SAM Prep Vessel Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0084,BDX - Screens/Filter Press Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0085,BDX - Xterm Prep to PASA Dissolution (Bedford POROS),BED,,,No,Yes,"Training consists of staging of materials, equipment prep with column assembly, how to estimate day/time of shipment, Dowex charge and water rinse through column and PASA Dissolution"
+CUR-LSG-BED-MFGB-0086,BDX - Xterm PASA Conversion (Bedford POROS),BED,,,No,Yes,"Training includes PASA flowing through Dowex Column collecting in a 20 L Carboy, Sampling for UV, PH, Conductivity, and Titration"
+CUR-LSG-BED-MFGB-0087,BDX - Xterm PASA Dilution in V-1320 (Bedford POROS),BED,,,No,Yes,"Training includes flow meter verifications, PASA charge to V-1320, water addition calculations, sampling/adjusting the PASA concentration to 0.0358%"
+CUR-LSG-BED-MFGB-0088,BDX - Xterm PAO/PCH Coatings/Washes (Bedford POROS),BED,,,No,Yes,"This training covers staging of materials, equipment prep, PAO/PCH charge calculations, PAO/PCH Coatings and Mixed Bed Washes. Involves the use of V-1450, V-1470, V-1320, TK-1512, diptube sampling"
+CUR-LSG-BED-MFGB-0089,BDX - Xterm Transfer V-1450 to V-1470 (Bedford POROS),BED,,,No,Yes,"""Training includes equipment prep, sampling, pressure testing, TCU valve check, transfer, and dropping of V-1450 bottom for remaining product collection.
+*Note the shared TCU between V-1300 and V-1450 with critical due diligence to processes being performed at time of change."""
+CUR-LSG-BED-MFGB-0090,BDX - PASA Tank and Column Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0091,BDX - Xterm Solids Adjustment (Bedford POROS),BED,,,No,Yes,"""Training covers nitrogen sparge, sampling and adjustment calculations/steps following results.
+*Note: assign """"% Solids"""" QC training role for performing in-process test"""
+CUR-LSG-BED-MFGB-0092,BDX - SAM CHAPS/Betaine (Bedford POROS),BED,,,No,Yes,"Training covers staging of materials, equipment prep, CHAPS dissolution and Betaine Charge (steps 1a to 3h)"
+CUR-LSG-BED-MFGB-0093,BDX - SAM Discharge from V-1320 (Bedford POROS),BED,,,No,Yes,"Training covers sampling, particulate inspection, and discharge process to sterile buffer bags from V-1320 (steps 3i to 3q)"
+CUR-LSG-BED-MFGB-0105,A-12 Classifier Operation (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0106,Classifier Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0107,Sm. Scale R Polymerization (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0108,Sm. Scale R Post Polymerization Process (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0109,Sm. Scale R Product Recovery (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0110,Sm. Scale R Sonication (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0111,Sm. Scale R Polymerization Reactor Cleaning (Bedford POROS),BED,,,No,Yes,
+CUR-LSG-BED-MFGB-0112,Sm. Scale R Sedimentations (Bedford POROS),BED,,,No,Yes,"Includes Sized R150, R220, R120 and R330."
+CUR-LSG-BED-MFGB-0113,Sm. Scale R Drying (Bedford POROS),BED,,,No,Yes,"Covers Sized R150, R120, R220 and R330 - use lab oven."
+CUR-LSG-BED-MFGC-0047,CHM Transfer Lines (Bedford POROS),BED,,,No,Yes,Training is for the use of the process and waste transfer line manifolds at the Chelmsford 220 Mill location.
+CUR-LSG-BED-MFGC-0121,CHM EP150/EP450 TPTGE Filtration/Washes (Bedford POROS),BED,,,No,Yes,Transferring of TPTGE waste from nutsches to V-4750 and initiating waste hold/monitoring recipe in DeltaV
+CUR-LSG-BED-MFGC-0122,CHM EP Waste Vessel Cleaning (Bedford POROS),BED,,,No,Yes,LOTO and cleaning of V4750
+CUR-LSG-BED-MFGC-0130,CHM Nutsche Operation Management Overview (Bedford POROS),BED,,,No,Yes,"*This training does not qualify you to perform tasks. Target audience of POROS Engineering/Supervisor roles. Utilize this training role to familiarize yourself with Chelmsford 220 Mill Road Nutsche Unit Operating Procedures, Lock Out Tag Out Procedures, and Cleaning procedures.
+"
+CUR-LSG-BED-MIC-0001,Micro Lab Microscope Use and Maintenance (Bedford Microbiology Lab),BED,,,No,Yes,"Review proper use and required maintenance of the Micro QC Lab microscope
+"
+CUR-LSG-BED-MIC-0002,Biosafety Cabinet Operation (Bedford Microbiology Lab),BED,,,No,Yes,"Pre-requisite training for Micro-lab Bioburden Testing
+"
+CUR-LSG-BED-MIC-0003,CHM Autoclave Operation (Bedford Microbiology Lab),BED,,,No,Yes,"Training is focused on the Heidolph Tuttnauer Automated Electronic Benchtop Sterilizer. To include:Prep, operation, draining reservoir, and cleaning autoclave"
+CUR-LSG-BED-MIC-0004,220 Mill RODI Water Sampling (Bedford Microbiology Lab),BED,,,No,Yes,*Assign with training role Port Sanitization. Covers sampling process and building/port locations.
+CUR-LSG-BED-MIC-0005,2P RODI Water Sampling (Bedford Microbiology Lab),BED,,,No,Yes,*Assign with training role Port Sanitization. Covers sampling process and building/port locations.
+CUR-LSG-BED-MIC-0006,Water Port Sanitization (Bedford Microbiology Lab),BED,,,No,Yes,"An overview of how the ports are sanitized at all PPA MA manufacturing locations will be covered during training. It will also be covered how the sanitization agent, Sporclenz or aka Minncare, is prepared."
+CUR-LSG-BED-MIC-0007,Microbiology lab operation (Bedford Microbiology Lab),BED,,,No,Yes,Training includes general lab practices including cleaning requirements
+CUR-LSG-BED-MIC-0008,USP<61> Bioburden Testing,BED,,,No,Yes,"This training will encompass microbiological determination of POROS resins manufactured at Bedford campus using microbial Enumeration Test USP <61>, skills to be cover during training will include sample handling and preparations, pour plate methods, CFU counts and result reporting. This is in-house testing.
+"
+CUR-LSG-BED-MIC-0009,Sample Prep for Micro ID (Bedford Microbiology Lab),BED,,,No,Yes,"Covers stock cultures and control slides, prep sample for DNA extraction, DNA extraction and micro identification sample log
+"
+CUR-LSG-BED-MIC-0010,StudioSeq Micro ID (Bedford Microbiology Lab),BED,,,No,Yes,"Covers setting up PCR Sequencing using the Vertipro and Studioseq with MSID software. All forms used for this process.
+"
+CUR-LSG-BED-MIC-0011,35W RODI Water Sampling (Bedford Microbiology Lab),BED,,,No,Yes,"*Assign with training role Port Sanitization. Covers sampling process and building/port locations.
+"
+CUR-LSG-BED-MIC-0012,Oasis Internal PM (Bedford Microbiology Lab),BED,,,No,Yes,The Oasis needs to be monitored for performance quality on an internal basis. Having a protocol to rule out issues with trouble shooting will ensure precision and accuracy of the pump lead bioburden filtration.  The PM program will create more visibility for audits and cement customer trust in our robust RODI monitoring program.
+CUR-LSG-BED-MIC-5001,Micro Lab Intro Curriculum (Bedford Micro Lab),BED,,,No,Yes,Curriculum covers Micro Lab basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-MIC-5002,Micro Lab: Endotoxin Testing Curriculum (Bedford Micro Lab),BED,,,No,Yes,Training covers sampling requirements and how to perform endotoxin testing
+CUR-LSG-BED-MIC-5003,Micro Lab: RODI Bioburden Curriculum (Bedford Micro Lab),BED,,,No,Yes,"Training covers port sanitization, use of log, and how to perform bioburden testing for RODI water"
+CUR-LSG-BED-MIC-5004,Micro Lab: POROS Bioburden Curriculum (Bedford Micro Lab),BED,,,No,Yes,"Training covers sample prep, cleaning and how to perform bioburden testing on POROS products"
+CUR-LSG-BED-MIC-5005,Micro ID Curriculum (Bedford Micro Lab),BED,,,No,Yes,"Training covers sample prep, how to use SeqStudio and how to perform molecular ID testing"
+CUR-LSG-BED-MSE-0001,BED/CHM Delta V Backup Verification (Bedford MSE),BED,,,No,Yes,Training to cover all aspects of doc# 100113961 for ability to carry out the preventive maintenance requirement. Provides general information of the backup software in use. Details how to access relevant backup metrics for verification. Specifies value thresholds to prompt concerns and further escalation.
+CUR-LSG-BED-MSE-0002,BED/CHM Delta V Backup/Recovery (Bedford MSE),BED,,,No,Yes,
+CUR-LSG-BED-MSE-0003,BED/CHM Delta V Suppressed Alarms List Review (Bedford MSE),BED,,,No,Yes,Weekly preventative maintenance to review the suppressed alarm master list and verify there are no alarms unintentionally left suppressed.
+CUR-LSG-BED-MSE-0004,BED/CHM DeltaV- User Review PM (Bedford MSE),BED,,,No,Yes,How to execute the DV user review PM
+CUR-LSG-BED-MSE-0005,Digital Heating Shaking Dry bath (Bedford MSE),BED,,,No,Yes,How to use digital heating shaking drybath for organic extractions and epoxide density tests.
+CUR-LSG-BED-MSE-0006,Fluoroskan Ascent (Bedford MSE),BED,,,No,Yes,MSE testing and calibration of Fluoroskan Ascent
+CUR-LSG-BED-MSE-0007,Guidelines for Assay Development & Validation (Bedford MSE),BED,,,No,Yes,"Description of basic steps for completion of assay validation plan and report.  Tips on resources- software, templates and forms needed, how to access them"
+CUR-LSG-BED-MSE-0008,MSE Cleaning Validation (Bedford MSE),BED,,,No,Yes,"Training to cover aseptic sampling of RODI water from various pieces of manufacturing equipment, gowning requirements, sample technique, location of consumables, instruction on how to store and ship samples"
+CUR-LSG-BED-MSE-0009,MSE New Employee (Bedford MSE),BED,,,No,Yes,Collection of basic training for those new to the MSE group.
+CUR-LSG-BED-MSE-0010,Validation (Bedford MSE),BED,,,No,Yes,An overview of the techniques and tools required for preparing and executing validation of proposed process changes in a manufacturing environment for those in MSE group.
+CUR-LSG-BED-MSE-0011,Risk Assessment/Management (Bedford MSE),BED,,,No,Yes,
+CUR-LSG-BED-MSE-0013,Spectramax Microplate Reader Calibration (Bedford MSE),BED,,,No,Yes,"This training is intended to be used by designated personnel to calibrate the Molecular Device Spectramax Microplate Reader on a quarterly basis to ensure proper function of the instrument. This training is applicable for microplate readers of the Spectramax M2, M5, M5e or ABS model."
+CUR-LSG-BED-MSE-5001,MSE Team Intro Curriculum (Bedford MSE),BED,,,No,Yes,Curriculum covers MSE basic trainings all department employees will need to take following onboarding training completion.
+CUR-LSG-BED-MSE-5002,MSE Operational Support Curriculum (Bedford MSE),BED,,,No,Yes,Curriculum intended for those supporting manufacturing efforts. This includes line clearance and training content creation.
+CUR-LSG-BED-MSE-5003,Statistical Analysis Curriculum (Bedford),BED,,,No,Yes,"Curriculum consists of a collection of external vendor supported trainings (Basic Data Mining w/Minitab, DOE, MSA, Minitab, SPC). Reach out to site Training Manager prior to assigning to ensure funding and scheduling of training is available. Trainings are available individually for assignment"
+CUR-LSG-BED-MSE-5004,Risk Assessment Facilitation (Bedford MSE),BED,,,No,Yes,Curriculum intended for those supporting risk assessment. Includes external vendor supported training. Reach out to site Training Manager prior to assigning to ensure funding and scheduling of training is available. 
+CUR-LSG-BED-MSE-5005,Validation/SOP Author (Bedford MSE),BED,,,No,Yes,Curriculum intended for those responsible for performing validation duties and writing associated documentation through approval processes. Includes external vendor supported training. Reach out to site Training Manager prior to assigning to ensure funding and scheduling of training is available. 
+CUR-LSG-BED-MSE-5006,Investigation (Bedford MSE),BED,,,No,Yes,Curriculum intended for those responsible for leading CAPA/Deviation investigations.
+CUR-LSG-BED-MSE-5007,MSAT Chemistry Team Intro Curriculum (Bedford Chemistry),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Curriculum intended for those working in the MSAT chemistry team across Bedford and Chelmsford locations.
+"
+CUR-LSG-BED-MTN-0018,BED/CHM  Vacuum Pump Operation (Bedford Maintenance),BED,,,No,Yes,
+CUR-LSG-BED-MTN-0019,BED/CHM 0.5M Nutsche Interlock Challenge PM (Bedford Maintenance),BED,,,No,Yes,Annual verification of all .5m Nutch safety interlocks
+CUR-LSG-BED-MTN-0020,BED/CHM 0.5M Nutsche Quarterly PM (Bedford Maintenance),BED,,,No,Yes,Completion of this role also covers Monthly and Annual PMs: Trainer to review PM differences and train to these differences using other existing roles
+CUR-LSG-BED-MTN-0021,BED/CHM 1M Nutsche Interlock Challenge PM (Bedford Maintenance),BED,,,No,Yes,Annual verification of all 1m Nutch safety interlocks
+CUR-LSG-BED-MTN-0022,BED/CHM 1M Nutsche Quarterly PM (Bedford Maintenance),BED,,,No,Yes,Completion of this role also covers Monthly and Annual PMs: Trainer to review PM differences and train to these differences using other existing roles
+CUR-LSG-BED-MTN-0023,BED/CHM Agitator Shaft Change (Bedford Maintenance),BED,,,No,Yes,"How to change the seal for the EP waste tank, organic phase reactor tank, and sonication vessel"
+CUR-LSG-BED-MTN-0024,BED/CHM Diaphragm Pump Annual PM (Bedford Maintenance),BED,,,No,Yes,"Annual preventative maintenance on air operated diaphragm pumps. Completion of this role also covers Monthly and Quarterly PMs: Covers all waste streams, pump sizes and locations."
+CUR-LSG-BED-MTN-0025,BED/CHM Dry-Mate Training (Bedford Maintenance),BED,,,No,Yes,Hands on training - requires spare kit
+CUR-LSG-BED-MTN-0026,BED/CHM Dryer Annual PM (Bedford Maintenance),BED,,,No,Yes,"Annual preventative maintenance on POROS process dryers. Completion of this role also covers Monthly, Quarterly and Semi-annual PMs: Trainer to review PM differences and train to these differences across all dryers at facility."
+CUR-LSG-BED-MTN-0027,BED/CHM Glass Lined Vessel Quarterly PM (Bedford Maintenance),BED,,,No,Yes,Completion of this role also covers Monthly and Annual PMs: Trainer to review PM differences and train to these differences using other existing roles
+CUR-LSG-BED-MTN-0028,BED/CHM Maintenance New Employee (Bedford Maintenance),BED,,,No,Yes,
+CUR-LSG-BED-MTN-0029,BED/CHM Mixing Vessel Quarterly PM (Bedford Maintenance),BED,,,No,Yes,Completion of this role also covers Annual PM: Trainer to review PM differences and train to these differences using other existing roles
+CUR-LSG-BED-MTN-0030,BED/CHM Oil Analysis PM (Bedford Maintenance),BED,,,No,Yes,This role covers collecting oil samples from gear box and hydraulic packs on all equipment and sending these sampling out for analysis.
+CUR-LSG-BED-MTN-0031,BED/CHM Peristaltic Pump Annual PM (Bedford Maintenance),BED,,,No,Yes,Annual preventative maintenance on peristaltic style process pumps. Covers lab pumps as well as waste water chemical addition pumps.
+CUR-LSG-BED-MTN-0032,BED/CHM RTD Probe Verification (Bedford Maintenance),BED,,,No,Yes,Full understanding of how to verify the RTD probes are working properly.
+CUR-LSG-BED-MTN-0033,BED/CHM RTD Removal/Installation (Bedford Maintenance),BED,,,No,Yes,How to properly remove and install an RTD into a vessel
+CUR-LSG-BED-MTN-0034,BED/CHM Rupture Disk Change (Bedford Maintenance),BED,,,No,Yes,"Replacement of vent line rupture disks, this role covers all rupture disks across all equipment"
+CUR-LSG-BED-MTN-0035,BED/CHM Seal Status Monitoring (Bedford Maintenance),BED,,,No,Yes,Weekly preventative maintenance to inspect POROS vessel mechanical seals.
+CUR-LSG-BED-MTN-0036,BED/CHM Solvent Line Leak Inspection (Bedford Maintenance),BED,,,No,Yes,Weekly safety walks through 2 Preston CT to identify any leaks or issues related to the tank farm and solvent delivery lines.
+CUR-LSG-BED-MTN-0037,BED/CHM Steri Nutsche Slurry Valve Maintenance (Bedford Maintenance),BED,,,No,Yes,"Guidance for cleaning, rebuilding and reinstalling of Strahman slurry valves on Steri Nutsches"
+CUR-LSG-BED-MTN-0038,BED/CHM TCU Pump Quarterly PM (Bedford Maintenance),BED,,,No,Yes,Quarterly preventative maintenance on temperature control unit centrifugal pumps. Covers all locations.
+CUR-LSG-BED-MTN-0039,BED/CHM TREX Communicator Trim Calibration (Bedford Maintenance),BED,,,No,Yes,A full understanding of how to calibrate RTD probes with the Trex Communicator
+CUR-LSG-BED-MTN-0040,BED/CHM Vent Condenser Cold Glycol Temp Trending (Bedford Maintenance),BED,,,No,Yes,Weekly preventative maintenance to verify cold glycol temperatures supplied to the POROS vent condenser.
+CUR-LSG-BED-MTN-0041,BED/CHM Waste Pump Leak Inspection (Bedford Maintenance),BED,,,No,Yes,Weekly safety inspection of all organic diaphragm pumps in Process areas. Used to identify any issues that could result in solvent spills.
+CUR-LSG-BED-MTN-0053,Delta V - Beginner (Bedford Maintenance),BED,,,No,Yes,A userID for Delta V is given via a maintenance service request (with proof of training completion / signature of supervisor).
+CUR-LSG-BED-MTN-0054,Delta V Change Control (Bedford Maintenance),BED,,,No,Yes,Required for those part of the Delta V change management committee
+CUR-LSG-BED-MTN-0055,LEL Meter Verification (Bedford Maintenance),BED,,,No,Yes,Verification of proper function and accuracy of EKI Eagle LEL Meter.
+CUR-LSG-BED-MTN-0056,"Scissor Lift Safety Certification (Bedford Maintenance)
+",BED,,,No,Yes,"Facilities and Maintenance team required training to be completed in first year of hire. This intermediate level training covers scissor lift inspections, operation, safety precautions and general equipment information. Online portion must be completed prior to in-person hands on practice and skill assessment. Certification expires every 3 years.
+To get registered for the Scissor Lift 3a Operator Certification or Recertification - Blended course, you must reach out to your Facilities/Maintenance Manager who is responsible for contacting United Rentals Academy (uarep@ur.com; 844-222-2345; customer# 6400278) to request quote specifying each employee participant w/employee's work email and set up payment. Once this is complete, you will be sent instructions via email to login to setup account to access/start online portion. Once online course is completed, be sure to contact your Facilities/Maintenance Manager to schedule the onsite practical certification session."
+CUR-LSG-BED-MTN-5001,BED Maintenance Team Intro Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers Maintenance basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-MTN-5002,CHM Maintenance Team Intro Curriculum (Bedford Maintenance),BED,,,No,Yes,"Curriculum covers Maintenance basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+"
+CUR-LSG-BED-MTN-5003,1.0/1.1M Nutsche Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance tasks for 1.0/1.1M Nutsches
+CUR-LSG-BED-MTN-5004,0.5M Nutsche Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance tasks for 0.5M Nutsches
+CUR-LSG-BED-MTN-5005,Glass Lined Vessels Curriculum (Bedford Maintenance),BED,,,No,Yes,"Curriculum covers maintenance tasks for glass lined vessels
+"
+CUR-LSG-BED-MTN-5006,BED Maintenance Specialty Tasks Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance specialty tasks
+CUR-LSG-BED-MTN-5007,CHM Maintenance Specialty Tasks Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance specialty tasks
+CUR-LSG-BED-MTN-5008,Mixing Vessels Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance tasks for mixing vessels
+CUR-LSG-BED-MTN-5009,Dryers Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance tasks for tumble dryers
+CUR-LSG-BED-MTN-5010,Weekly PMs Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance tasks for weekly PMs
+CUR-LSG-BED-MTN-5011,Pilot Plant Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance tasks for Pilot Plant
+CUR-LSG-BED-MTN-5012,BED Waste Water Curriculum (Bedford Maintenance),BED,,,No,Yes,"Curriculum covers maintenance tasks for 1waste water system
+"
+CUR-LSG-BED-MTN-5013,Pumps Curriculum (Bedford Maintenance),BED,,,No,Yes,Curriculum covers maintenance tasks for pumps
+CUR-LSG-BED-MTNB-0001,BED 2 Preston Employees (ALL) (Bedford Maintenance),BED,,,No,Yes,"This training is intended for all employees of 2 Preston Court, Bedford MA. Includes POROS production, QC, Distribution, Maintenance, Security, Pilot Plant, and Supervisory personnel that reside on location."
+CUR-LSG-BED-MTNB-0002,BED 2 Preston Lift Procedure (Bedford Maintenance),BED,,,No,Yes,This training module covers the proper techniques for transferring items to/from penthouse to/from lower level floor.
+CUR-LSG-BED-MTNB-0003,BED 2 Preston Penthouse Leak Containment Berm (Bedford Maintenance),BED,,,No,Yes,"This training should cover location of berm, alarm types, response to alarms."
+CUR-LSG-BED-MTNB-0004,BED 2P Acid V-1671 Draining and Rinsing,BED,,,No,Yes,Performed when there is maintenance being done on the inside of the tank or the butterfly valve. Training to cover steps to complete as well as how to perform safely.
+CUR-LSG-BED-MTNB-0005,BED 2P Plant Startup (Bedford Maintenance),BED,,,No,Yes,"This training is to cover plant restart steps in order to return the 2 Preston Ct. Bedford, MA Thermo Fisher Scientific facility back to operational capacity after a plant shutdown, power outage, or other cause that would render the building inoperable. The intention is to be able to hand the plant back to Manufacturing after an outage event occurs in a timely, reliable, and consistent manner."
+CUR-LSG-BED-MTNB-0006,BED Budzar TCU Annual PM (Bedford Maintenance),BED,,,No,Yes,Annual preventative maintenance on Budzar temperature control unit in the pilot plant area. Completion of this role also covers the Quarterly PM.
+CUR-LSG-BED-MTNB-0007,BED Install of Nutsche Screen Hardware (Bedford Maintenance),BED,,,No,Yes,Proper installation of screen hardware
+CUR-LSG-BED-MTNB-0008,BED Maintenance VFD Programming (Bedford Maintenance),BED,,,No,Yes,"Training to cover basic overview information, preparation, keypad operation, and parameter information for programming Powerflex 40 Frequency drive."
+CUR-LSG-BED-MTNB-0009,BED POROS Hot Glycol Filter PM (Bedford Maintenance),BED,,,No,Yes,Quarterly preventative maintenance on the hot glycol system filter housings located in the POROS suites.
+CUR-LSG-BED-MTNB-0010,BED Solvent Pumps Semi-Annual PM,BED,,,No,Yes,"Semi-Annual preventative maintenance on all solvent delivery pumps (Acetone, Methanol and THF)"
+CUR-LSG-BED-MTNB-0011,BED Temp/Humidity Chart Recording (Bedford Maintenance),BED,,,No,Yes,Monthly data analysis and download of site wide temperature and humidity readings in critical areas.
+CUR-LSG-BED-MTNB-0012,BED V-7020 Annual PM (Bedford Maintenance),BED,,,No,Yes,Annual preventative maintenance on 30 gallon glass lined vessel located in the Pilot plant area. Competition of this roles also covers Quarterly PM
+CUR-LSG-BED-MTNB-0013,BED V-7050 Annual PM (Bedford Maintenance),BED,,,No,Yes,Annual preventative maintenance on 0.1m Nutche located in the Pilot plant area. Competition of this roles also covers the Quarterly PM
+CUR-LSG-BED-MTNB-0014,BED V-7060 Annual PM (Bedford Maintenance),BED,,,No,Yes,Annual preventative maintenance on 0.2m Nutche located in the Pilot plant area. Competition of this roles also covers the Quarterly PM
+CUR-LSG-BED-MTNB-0015,BED Waste Water Caustic Transfer Pump PM (Bedford Maintenance),BED,,,No,Yes,Monthly preventative maintenance on the 2 Preston Ct waste water room caustic transfer pump.
+CUR-LSG-BED-MTNB-0016,BED Waste Water Room PM (Bedford Maintenance),BED,,,No,Yes,"Monthly preventative maintenance on the 2 Preston Ct waste water system. Covers inspection, cleaning and testing of various system components."
+CUR-LSG-BED-MTNB-0017,BED Waste Water Room Strainer PM (Bedford Maintenance),BED,,,No,Yes,Quarterly preventative maintenance on the 2 Preston Ct waste water system waste stream strainer baskets
+CUR-LSG-BED-MTNC-0042,CHM 220M Waste Water Acid Addition (Bedford Maintenance),BED,,,No,Yes,
+CUR-LSG-BED-MTNC-0043,CHM 220M Waste Water Caustic Addition (Bedford Maintenance),BED,,,No,Yes,
+CUR-LSG-BED-MTNC-0044,CHM 220M Waste Water Monthly PM (Bedford Maintenance),BED,,,No,Yes,
+CUR-LSG-BED-MTNC-0045,CHM 220M Waste Water pH Probe Replacement (Bedford Maintenance),BED,,,No,Yes,
+CUR-LSG-BED-MTNC-0046,CHM 220M Waste Water Quarterly Strainer PM (Bedford Maintenance),BED,,,No,Yes,
+CUR-LSG-BED-MTNC-0047,CHM Lift Station Pump Quarterly PM (Bedford Maintenance),BED,,,No,Yes,Quarterly preventative maintenance on lift station centrifugal pumps. Covers all pump locations including elutriation sump pit.
+CUR-LSG-BED-MTNC-0048,CHM Maintenance Interlock and Permissive (Bedford Maintenance),BED,,,No,Yes,"Overview of Delta V interlocks, bypass log and permissive for maintenance reference in Chelmsford."
+CUR-LSG-BED-MTNC-0049,CHM Maintenance Plant Restart (Bedford Maintenance),BED,,,No,Yes,Outline of the standardized order of operations to return various plant utilities and systems to normal operation at 220 Mill Road.
+CUR-LSG-BED-MTNC-0050,CHM Maintenance VFD Programming (Bedford Maintenance),BED,,,No,Yes,"Training to cover basic overview information, preparation, keypad operation, and parameter information for programming Frequency drive."
+CUR-LSG-BED-MTNC-0051,CHM Pfaulder Nutsche Slurry Valve Maintenance (Bedford Maintenance),BED,,,No,Yes,"Guidance for cleaning, rebuilding and reinstalling of Strahman slurry valves on Pfaudler Nutsches"
+CUR-LSG-BED-MTNC-0052,CHM Solvent Pumps Semi-Annual PM (Bedford Maintenance),BED,,,No,Yes,"Semi-Annual preventative maintenance on all solvent delivery pumps ( Acetone, Methanol and THF); training to this role also applies to the quarterly PM."
+CUR-LSG-BED-PILO-0001,AAV Pilot Scale CDI Activation (Bedford Pilot Plant),BED,,,No,Yes,"Provides the material needed to assist in the training for the CDI activation reaction. This includes equipment set up, starting the CDI reaction and performing the post-reaction washes."
+CUR-LSG-BED-PILO-0002,AAV Pilot Scale Coupling Prep and Start (Bedford Pilot Plant),BED,,,No,Yes,"AAV 14 L Scale Coupling Buffer, Ligand Prep and Start Coupling"
+CUR-LSG-BED-PILO-0003,AAV Pilot Scale Post Coupling (Bedford Pilot Plant),BED,,,No,Yes,"AAV 14 L Scale Washing, Blocking, Discharge to Carboys"
+CUR-LSG-BED-PILO-0004,C450 Lab Scale Coupling Prep and RXN (Bedford Pilot Plant),BED,,,No,Yes,Process will be performed in lab scale glassware. Training will cover the operation of the lab scale equipment and process.
+CUR-LSG-BED-PILO-0006,Ceric Sulfate Qualifications (Bedford Pilot Plant),BED,,,No,Yes,Provides the material needed to assist in the training for running Ceric Sulfate Qualification batches.
+CUR-LSG-BED-PILO-0007,ClusterinClear Coupling Prep and RXN Start (PP) (Bedford Pilot Plant),BED,,,No,Yes,"Vessel prep, Coupling buffer, ligand prep and coupling reaction start"
+CUR-LSG-BED-PILO-0008,ClusterinClear Pilot Scale Post Coupling (Bedford Pilot Plant),BED,,,No,Yes,"Post coupling washing, blocking reaction, transfer to cone, discharge"
+CUR-LSG-BED-PILO-0009,EP250 and EP450 Qualifications (Bedford Pilot Plant),BED,,,No,Yes,Provides the material needed to assist in the training for running EP250 and EP450 Qualification batches.
+CUR-LSG-BED-PILO-0010,Facility Cleaning (Bedford Pilot Plant),BED,,,No,Yes,Provides an outline for Facilities Cleaning within the Pilot Plant.
+CUR-LSG-BED-PILO-0011,FcXP Lab Scale Coupling Prep and RXN (Bedford Pilot Plant),BED,,,No,Yes,"Training to include Lab equipment prep, Coupling buffer, ligand prep and coupling reaction start"
+CUR-LSG-BED-PILO-0013,General Buffer Prep (Bedford Pilot Plant),BED,,,No,Yes,"""*Ensure training role for Glassware/Equipment General Basewashing is assigned.
+Provides the material needed to assist in the training for General Buffer Prep in the Pilot Plant."""
+CUR-LSG-BED-PILO-0014,General Glassware Cleaning (Bedford Pilot Plant),BED,,,No,Yes,Provides the material needed to assist in the training for General Glassware Cleaning in the Pilot Plant.
+CUR-LSG-BED-PILO-0015,General Reactor Basewashing (Bedford Pilot Plant),BED,,,No,Yes,Will cover base washing requirements for all Pilot Plant reactors vessels.
+CUR-LSG-BED-PILO-0016,Glassware/Equipment General Basewashing (Bedford Pilot Plant),BED,,,No,Yes,"Provides the material needed to assist in the training for Glassware/Equipment General Base washing in the Pilot Plant. This shall include NaOH solution make-up as well as the proper application, timing requirements and storage prior to use."
+CUR-LSG-BED-PILO-0017,MMCEX Coupling (Bedford Pilot Plant),BED,,,No,Yes,"""New product introduction. Process will be performed in V-7050 with the use of the TCUs. Training
+will cover the operation of the equipment with an OJT of the process."""
+CUR-LSG-BED-PILO-0018,MMCEX Elutriation (Bedford Pilot Plant),BED,,,No,Yes,New product introduction. Process will be elutriated. Training will cover the operation of the equipment with an OJT of the process
+CUR-LSG-BED-PILO-0019,MMCEX Washing (Bedford Pilot Plant),BED,,,No,Yes,New product introduction. Process will be performed in V-7050 with the use of the TCUs. Training will cover the operation of the equipment with an OJT of the process.
+CUR-LSG-BED-PILO-0020,O2 Meter Operation (Bedford Pilot Plant),BED,,,No,Yes,Provides the material needed to assist in the training of the O2 Meter used in Pilot Plant manufacturing.
+CUR-LSG-BED-PILO-0021,Oligo dT 1 to 10 L Scale Coupling Day(Moderna) (Bedford Pilot Plant),BED,,,No,Yes,"Provides the material needed to assist in the training of the Moderna 10L scale coupling process. This role includes ligand prep, coupling buffer prep, starting the coupling reaction and the post reaction washes."
+CUR-LSG-BED-PILO-0022,Oligo dT 1 to 10L Post Coupling Washes to Carboy (Bedford Pilot Plant),BED,,,No,Yes,"Oligo dT 1 to 10 L Scale Washes, Block, Washes, and Discharge to Carboy"
+CUR-LSG-BED-PILO-0023,Oligo dT Nutsche Coupling (Bedford Pilot Plant),BED,,,No,Yes,"Provides the material needed to assist in the training of the Oligo DT 30L Scale Coupling process. This role includes ligand prep, coupling buffer prep, starting the coupling reaction and the post reaction washes."
+CUR-LSG-BED-PILO-0024,Oligo dT Nutsche Post-Coupling (Bedford Pilot Plant),BED,,,No,Yes,"Provides the material needed to assist in the training of the Oligo DT 30L Scale Post-Coupling process. This role includes setting up the blocking reaction, the post reaction washes, and discharge from the reactor."
+CUR-LSG-BED-PILO-0025,OMEGA RDXL Temperature Logger (Bedford Pilot Plant),BED,,,No,Yes,Provides the material needed to assist in the training of the operation and calibration of the Omega RDXL temperature logger used in Pilot Plant.
+CUR-LSG-BED-PILO-0026,Packaging and Labeling (Bedford Pilot Plant),BED,,,No,Yes,Training to cover all Pilot Plant product packaging and Labeling.
+CUR-LSG-BED-PILO-0027,pH/Cond Meter Operation (Bedford Pilot Plant),BED,,,No,Yes,Provides the material needed to assist in the training of the operation and calibration of the pH/Conductivity Meter used in Pilot Plant manufacturing.
+CUR-LSG-BED-PILO-0028,Pilot Plant Elutriation (Bedford Pilot Plant),BED,,,No,Yes,Provides the material needed to assist in the training of the Pilot Plant Elutriation process and equipment.
+CUR-LSG-BED-PILO-0029,Pilot Plant LO/TO (Bedford Pilot Plant),BED,,,No,Yes,Provides the material needed to assist in the training of the Pilot Plant LO/TO procedures and equipment.
+CUR-LSG-BED-PILO-0030,Pilot Plant New Employee (Bedford Pilot Plant),BED,,,No,Yes,Provides materials and procedures to assist in the training for new employees in the Pilot Plant.
+CUR-LSG-BED-PILO-0031,Pilot Plant Nutsche Cleaning (Bedford Pilot Plant),BED,,,No,Yes,Provides materials and procedures to assist in the training for Pilot Plant Nutsche cleaning.
+CUR-LSG-BED-PILO-0032,Polishing (Bedford Pilot Plant),BED,,,No,Yes,Training covers all Pilot Plant product polishing procedures
+CUR-LSG-BED-PILO-0033,POROS AL150 4KG (Bedford Pilot Plant),BED,,,No,Yes,Provides materials and procedures to assist in the training for POROS AL150 (4Kg) manufacturing process.
+CUR-LSG-BED-PILO-0034,POROS Anti-A/B Coupling Start (Bedford Pilot Plant),BED,,,No,Yes,Provides materials and procedures to assist in the training for the start of the POROS Anti A/B Coupling process. This role includes ligand prep and starting the coupling reaction.
+CUR-LSG-BED-PILO-0035,POROS Anti-A/B Sedimentations (Bedford Pilot Plant),BED,,,No,Yes,Provides materials and procedures to assist in the training for the start of the POROS Anti A/B Sedimentation process.
+CUR-LSG-BED-PILO-0036,POROS Anti-A/B Washes (Bedford Pilot Plant),BED,,,No,Yes,Provides materials and procedures to assist in the training for the start of the POROS Anti A/B Washing process.
+CUR-LSG-BED-PILO-0037,Process Tank Operation and Cleaning (Bedford Pilot Plant),BED,,,No,Yes,Provides materials and procedures to assist in the training for the operation and cleaning of the process tank used in Pilot Plant manufacturing.
+CUR-LSG-BED-PILO-0038,Sample Submission (Bedford Pilot Plant),BED,,,No,Yes,Provides materials and procedures to assist in the training for Sample Submission to QC
+CUR-LSG-BED-PILO-0039,Temperature Logger Operation (Bedford Pilot Plant),BED,,,No,Yes,Covers logging and offloading data
+CUR-LSG-BED-PILO-0040,V-7020 Cleaning (Bedford Pilot Plant),BED,,,No,Yes,*Will require Cranes and Hoist Training for use of Pilot Plant hoist during cleaning operations
+CUR-LSG-BED-PILO-0041,Lab Scale Post Coupling (Bedford Pilot Plant),BED,,,No,Yes,"Training to cover Post coupling washing, blocking reaction, transfer to cone, discharge"
+CUR-LSG-BED-PILO-0042,V-7050 Cleaning (Bedford Pilot Plant),BED,,,No,Yes,
+CUR-LSG-BED-PILO-5001,Pilot Plant Team Intro Curriculum (Bedford Pilot Plant),BED,,,No,Yes,Curriculum covers Pilot Plant basic trainings all department employees will need to take following onboarding training completion.
+CUR-LSG-BED-PILO-5002,Raw Material Qualifications Curriculum (Bedford Pilot Plant),BED,,,No,Yes,Curriculum covers Ceric Sulfate and EP qualifications.
+CUR-LSG-BED-PILO-5003,Pilot Scale AAV Curriculum (Bedford Pilot Plant),BED,,,No,Yes,"Curriculum covers AAV CDI activation, coupling prep/start, and post coupling processes."
+CUR-LSG-BED-PILO-5004,Oligo dT 1 to 10L Scale Curriculum (Bedford Pilot Plant),BED,,,No,Yes,Curriculum covers coupling and post coupling processes at Pilot scale.
+CUR-LSG-BED-PILO-5005,Lab Scale Ligand Products Curriculum (Bedford Pilot Plant),BED,,,No,Yes,Curriculum covers various processes for ligand products.
+CUR-LSG-BED-PLAN-0001,Planning Department Documents (Bedford Planning),BED,,,No,Yes,Collection of planning documents.
+CUR-LSG-BED-PLAN-0002,Materials Planning Department Documents (Bedford Planning),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Collection of documents applicable to materials planning team.
+"
+CUR-LSG-BED-PLAN-5001,Planning Team Intro Curriculum (Bedford Planning),BED,,,No,Yes,Curriculum covers Planning basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-PLAN-5002,Materials Planning Intro Curriculum (Bedford Planning),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Curriculum covers Materials Planning basic trainings all department employees will need to take following onboarding training completion. 
+"
+CUR-LSG-BED-PPI-0001,5S Overview (Video Only) (Bedford PPI),BED,,,No,Yes,
+CUR-LSG-BED-PPI-0002,5S Standards Basics (Bedford PPI),BED,,,No,Yes,
+CUR-LSG-BED-PPI-0003,Leader Standard Work (Bedford PPI),BED,,,No,Yes,"This training role will provide you with an overview of Leader Standard Work, an element of Lean Leadership. Leader Standard Work ensures that leaders engage in the right activities to enable sustainability of all of the other elements of the PPI Business System."
+CUR-LSG-BED-PPI-0004,Leader Standard Work Overview (Video Only) (Bedford PPI),BED,,,No,Yes,Leader Standard Work basics recorded classroom option - may be assigned when live classroom option is not available to satisfy requirement.
+CUR-LSG-BED-PPI-0005,Meeting Management (Bedford PPI),BED,,,No,Yes,Provide material that will help people run effective meetings.
+CUR-LSG-BED-PPI-0007,Tiered Daily Management (Bedford PPI),BED,,,No,Yes,"Training material related to Tiered Daily Management. Content that covers how to make and maintain a visual process located in the path of the work which conveys the business objectives, process standards, and actual performance real-time while engaging everyone in solving problems to meet overall business goals. Meetings enable tiered escalations as needed."
+CUR-LSG-BED-PPI-0008,Tiered Daily Management Overview (Video Only) (Bedford PPI),BED,,,No,Yes,Tiered Daily Management basics recorded classroom option - may be assigned when live classroom option is not available to satisfy requirement.
+CUR-LSG-BED-PPI-0009,5S Overview (Class Workshop) (Bedford PPI),BED,,,No,Yes,Training held along with 5S improvement efforts of an area for class and hands on learning
+CUR-LSG-BED-PPI-0010,Tiered Daily Management (Classroom) (Bedford PPI),BED,,,No,Yes,"Training related to Tiered Daily Management. Content that covers how to make and maintain a visual process located in the path of the work which conveys the business objectives, process standards, and actual performance real-time while engaging everyone in solving problems to meet overall business goals. Meetings enable tiered escalations as needed. Classroom led by PPI team"
+CUR-LSG-BED-PROC-5001,Procurement Team Intro Curriculum (Bedford Procurement),BED,,,No,Yes,Curriculum covers Procurement basic trainings all department employees will need to take following onboarding training completion.
+CUR-LSG-BED-QA-0002,New Hire Qualtiy Orientation (Bedford QA),BED,,,No,Yes,"This training will apply to all new and transfer employees supporting the Bedford and Chelmsford MA sites.
+"
+CUR-LSG-BED-QA-0003,Batch Record Review for MFG and QC (Bedford QA),BED,,,No,Yes,"Training intended for manufacturing Supervisors, team leads or other supporting personnel that are required to perform initial review of batch records prior to hand off to QA. Includes GDP, calculations, observations/justification, Delta V critical RXN print out and verification reviews.
+"
+CUR-LSG-BED-QA-0004,Iron Mountain (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0005,Customer Waiver Process (Bedford QA),BED,,,No,Yes,"""Process for releasing product under customer concession
+Includes the steps required to adequately and consistently document occurrences for instances when customers will accept product that does not conform to requirements (ie. aged inventory; expired product) upon concession and allowing for products to be shipped to customers under these circumstances."" Training required for supporting customer operations team."
+CUR-LSG-BED-QA-0006,Customer Notification (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0007,Customer Complaints (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0008,Customer/Regulatory Audits (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0009,Animal Origin (AO) (Bedford QA),BED,,,No,Yes,"Training is to provide a basic understanding of Animal Origin/Animal Origin Free definitions and Bedford procedures.
+"
+CUR-LSG-BED-QA-0010,Non-Conforming Material (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0011,Customer Controlled Property (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0012,QA New Employee (Bedford QA),BED,,,No,Yes,"QA employee onboarding trainings
+"
+CUR-LSG-BED-QA-0013,Onboarding Vendor/Contractor GDP (Bedford QA),BED,,,No,Yes,"Training resources for those onboarding vendors or contractors (non-Thermo Fisher employees) completing customer facing documentation for qualification/validation or service.
+"
+CUR-LSG-BED-QA-0014,Trackwise Approver (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0015,Trackwise: View Only (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0016,Trackwise Regulatory (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0017,Trackwise Planner (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0018,Trackwise Originator (Bedford QA),BED,,,No,Yes,"Self-assign the trackwise collection listed in requirements. When requesting access from Global IT ticket system, be sure to include a screen shot of the completion(s) from both Success Factors and Training Tracker.
+"
+CUR-LSG-BED-QA-0019,Trackwise Super User (Bedford QA),BED,,,No,Yes,"This training is only for those that will be approving access to Trackwise for site system users. Trackwise collection listed in requirements. When requesting access from Global IT ticket system, be sure to include a screen shot of the completion(s) from Success Factors.
+"
+CUR-LSG-BED-QA-0020,"Trackwise Quality, RA/QA, Process Owner (Bedford QA)",BED,,,No,Yes,"Trackwise collection listed in requirements. When requesting access from Global IT ticket system, be sure to include a screen shot of the completion(s) from Success Factors.
+"
+CUR-LSG-BED-QA-0021,Reprocessing Procedure (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0022,Deviation Management (Lead Investigator) (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"This training focuses on investigative process from identification of problem through close of verification of effectivity, with emphasis on Root Cause Analysis (RCA) through use of the RCA Toolkit.  Attendees will ideally have previously obtained “Process Owner” access in Trackwise and be familiar with Agile documents SOP0015206, SOP0015207, & SOP150015208.  Completion of the training allows the “Process Owner” to serve as Lead Investigator for medium and high risk PRs in Trackwise.
+"
+CUR-LSG-BED-QA-0023,Alternative Product Disposition (Bedford QA),BED,,,No,Yes,"Training applies to reprocessing/rework of manufactured intermediates or final products within the Purification (PUR) Network.
+"
+CUR-LSG-BED-QA-0024,Recall/Reporting (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0025,CAPA Awareness (Bedford QA),BED,,,No,Yes,"Training required for all Trackwise users within BPG. Available for all employees wanting to learn more about CAPA. 'CAPA for Everyone' training module is a pre-requisite for the completion of the 'Introduction to CAPA' module. Use links to access trainings in Thermo University.
+"
+CUR-LSG-BED-QA-0026,CAPA for Leaders (Bedford QA),BED,,,No,Yes,"Training required for all BPG Management teams. Use link to access Thermo University online training for completion. Training time is approximately 30 minutes.
+"
+CUR-LSG-BED-QA-0027,KPI Database (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0028,Lead Auditor (Bedford QA),BED,,,No,Yes,"Course can be taken thru BSI. Requires Internal Auditor training and experience prior to taking.
+"
+CUR-LSG-BED-QA-0029,Internal Audits (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0030,External Audit Support - Hosting (Bedford QA),BED,,,No,Yes,"Training to cover all responsibilities of hosting support in a customer audit - tours, procedures, quality systems knowledge, agenda, recording items of note, SME identification, etc.
+"
+CUR-LSG-BED-QA-0031,External Audit Support - PR Management (Bedford QA),BED,,,No,Yes,"Creating and tracking resolution of each audit observation and finding in Trackwise system and writing finding response report.
+"
+CUR-LSG-BED-QA-0032,Making Quality Personal (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0033,Kneat: System Admin (Bedford QA),BED,,,No,Yes,"""•View all documents and document templates in their assigned workspace(s)
+•Review/approve any document that has been assigned to them. 
+•Create, modify, and delete un-approved folders and documents within their assigned workspace(s). 
+•Create, modify, and, delete un-approved templates and properties.
+•View the global system audit trail and create, modify, and retire user accounts.""
+"
+CUR-LSG-BED-QA-0034,Level 1 - Kneat: Review & Approval (Bedford QA),BED,,,No,Yes,"""Level 1 training includes: 
+•	Overview of the Kneat Software Workspace
+•	Review Process
+•	Approval Process
+•	Guidance & Training Resources - Reference Documents and Video Modules.""
+"
+CUR-LSG-BED-QA-0035,Level 2 - Kneat: Protocol Generation and Execution (Bedford QA),BED,,,No,Yes,"""Level 2 – Part A: 
+•	Kneat Qualification Folder & Document Components
+•	Initiating a Validation Project in the Workspace
+•	Creating & Editing a Document
+•	Protocol Generation
+•	Protocol Review and Approval Process
+•	Guidance & Training Resources-
+Reference Documents and Video Modules
+Level 2 -Part B:
+•	Execution a Test Document
+•	Adding attachments
+•	Signing in-line steps
+•	Add Deviation
+•	Create DAF in the workspace
+•	Guidance and Training Resources- Reference Documents and Video Modules""
+"
+CUR-LSG-BED-QA-0036,Level 3 - Kneat: Power User (Bedford QA),BED,,,No,Yes,"""•	How to create a document template
+•	How to create an approval template
+•	Kneat properties (library and system properties)
+•	How to review a document template
+•	How to associate an approval template with a document template
+•	How to send a document template for approval
+•	How to approve a document template
+•	How to update a template to the next revision
+•	How to associate an issue template with a document type
+•	How to review and approve the section group template (test cases)
+•	How to use a document template and section group template
+•	How to create specific test cases for validation/qualification activity (equipment qualification log)
+•	How to update object templates and objects with an updated view
+•	How to update a document template with a new view
+•	How to create a discipline map""
+"
+CUR-LSG-BED-QA-0037,ECR Change Management Process Overview (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"High level overview of SOP 100070521
+"
+CUR-LSG-BED-QA-0038,Quality System Manual Documents (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0039,Annual Quality Review Refresher (Bedford QA),BED,,,No,Yes,"Bedford employees (with exception to finance, product management, R&D, EHS and marketing) are required to participate in the annual quality review refresher training. doc#100066317
+"
+CUR-LSG-BED-QA-0040,Lab Notebooks (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,
+CUR-LSG-BED-QA-0041,Line Clearance (Bedford QA),BED,,,No,Yes,"OJT Training should begin with overview from QA representative and cover all manufacturing area expectations across Bedford, Chelmsford and Framingham prior to being signed off.
+"
+CUR-LSG-BED-QA-0042,Label Reconciliation (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,
+CUR-LSG-BED-QA-0043,Product Labeling Governance (Bedford QA),BED,,,No,Yes,"Overview of how product labels are managed from New Product Introduction through standard production across the Purification Network. Training applies to QA site leads.
+"
+CUR-LSG-BED-QA-0044,Batch Record Review for QA (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Training will consists of review process, documentation practices, expectations, how to handle various findings as well as the material disposition and labeling requirements (SAP transaction and labeling tasks for product release) upon batch record review completion."
+CUR-LSG-BED-QA-0045,Master Batch Record Secondary Verification (Bedford QA),BED,,,No,Yes,"Training to consist of how to verify that all applicable information on 8-00114-70-0695 (Quality Assurance Material Disposition Form) is correct, accurate, and aligns with cGDP requirements. This is covered under the Master Batch Record Review training and this requirement will only be utilized as a separate OJT for those needing to support secondary verification either prior to training to full review process or where only supporting secondary verification is in scope."
+CUR-LSG-BED-QA-0046,cGDP and ALCOA Refresher Training (Bedford QA),BED,,,No,Yes,Review of current good documentation and ALCOA practices. Reference document 4474385.
+CUR-LSG-BED-QA-0047,COA Training (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0048,SAP System for Doc Control (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0049,Product Quality Review (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0050,Purchasing Process (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0051,PCP (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0052,Raw Material/OEM Change Eval Process (Bedford QA),BED,,,No,Yes,"This procedure includes the requirements for raw material and OEM’s change evaluation process.  The procedure describes how to manage raw material changes driven by the suppliers or by internal procurement and the includes the change evaluation criteria.
+"
+CUR-LSG-BED-QA-0053,Calibration (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0054,Customer Questionnaires (Bedford QA),BED,,,No,Yes,
+CUR-LSG-BED-QA-0055,BPG CAPA System (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,Training requirements per BPG for root cause/lead deviation investigators.
+CUR-LSG-BED-QA-0056,Certified Root Cause Investigator - Class Only (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,This sub-curricula should only be assigned for general root cause investigators (NOT for Deviation Lead Investigators)
+CUR-LSG-BED-QA-0057,Management Review (Bedford and Chelmsford QA),BED,,,No,Yes,"This training applies to all required, backup and optional attendees of the Management Review meeting. This meeting ensures the continued suitability, adequacy, and effectiveness of the Quality Management System (QMS) in support of regulatory requirements, the quality policy, and quality objectives. At minimum, attendance is to inlcude Site Directors, Quality Managers, Quality Rep, Procurement, and HR. Optional attendees include MSAT Manager, Director of Quality, Network QA Manager, Facilities Managers, Planning Manager, QC Manager and EHS Manager."
+CUR-LSG-BED-QA-0058,Purification NPIs – Core and Extended Team (Bedford and Chelmsford QA),BED,,,No,Yes,"The logic, terminology, and processes in PCP. 
+"
+CUR-LSG-BED-QA-0059,Out of Specification Test Result Investigation (Bedford and Chelmsford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"This sub-curricula is for additional supportive training for understanding key terms and procedure for conducting out of spec test result investigation as well as who is responsible (Deviation Lead Investigators)
+"
+CUR-LSG-BED-QA-0060,Purification Material Assessment (Bedford and Chelmsford QA),BED,,,No,Yes,"Guidance regarding the use of the BioPhorum-Raw Material Assessment Tool, roles and responsibilities, and recommended workflow for assessment of critical materials during the PCP process for new bioproduction products. This is tied to requirements for a corporate quality process that needs to be implemented. It is a risk assessment for critical raw materials – will need procurement, supplier quality, quality, regulatory, product management, and R&D input. 
+"
+CUR-LSG-BED-QA-5001,QA Operations Curriculum (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Batch record review, secondary review, COA, line clearance, label reconciliation and material dispositioning and labeling (part of batch record review process training)."
+CUR-LSG-BED-QA-5003,Internal Audit Team Curriculum (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Curriculum covers required training for internal audit team members. This curriculum must be requested and approved by the QA internal audit team leads for assignment.
+"
+CUR-LSG-BED-QA-5004,Lead Internal Auditor Curriculum (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Curriculum covers required training for lead internal audit team members. Basic internal audit training with experience is required before moving forward to complete and have role of lead internal auditor. This curriculum must be requested and approved by the QA internal audit team leads for assignment.
+"
+CUR-LSG-BED-QA-5006,QA Site Leads Curriculum (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Collection of trainings required for QA site lead review. 
+"
+CUR-LSG-BED-QA-5007,Deviation Management Lead Investigators Curriculum (Bedford QA),BED,,,No,Yes,"Curriculum is required for all lead investigators for deviations - both planned and unplanned PRs. Scope of training includes BPG CAPA academy, root cause investigator classroom training, and Trackwise training."
+CUR-LSG-BED-QA-5008,General Root Cause Investigator Curriculum (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,Curriculum is optional for those that would like exposure to root cause investigator toolset (See CUR-LSG-BED-QA-5007 for assignment to Deviation Lead Investigators). May be required for special project assignment per Manager.
+CUR-LSG-BED-QA-5010,Purification NPIs Curriculum (Bedford QA),BED,,,No,Yes,"Curriculum covers logic, terminology and processes in PCP applicable to the PPA purification teams at the Bedford/Chelmsford locations. PCP 2.0 Core Curriculum is a prerequisite for PCP 2.0 Supplemental Procedures for RUO and Product Commercialization Process 2.0 Swimlane"
+CUR-LSG-BED-QA-5011,QA Customer Communicatons Curriculum (Bedford QA),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,"Curriculum is required for QA Customer Communications team manager but may be optional for team members depending on role and responsibilities. 
+"
+CUR-LSG-BED-QC-0001,Contract Lab Sample Submission (Bedford QC),BED,,,No,Yes,"Training will cover how samples are sent out to contract lab facilities for testing. This will include the determination of testing required and test facility, preparation of samples, and data analysis."
+CUR-LSG-BED-QC-0002,35W Finished Good Inspection (Bedford QC),BED,,,No,Yes,"Training to cover finished goods inspection process and requirements specific to location.
+"
+CUR-LSG-BED-QC-0003,2P and 220 Mill Finished Good Inspection (Bedford QC),BED,,,No,Yes,Training to cover finished goods inspection process and requirements specific to location - covers both 2 Preston Court and 220 Mill Rd locations for POROS production.
+CUR-LSG-BED-QC-0004,Agilent HPLC Operation (Bedford QC),BED,,,No,Yes,R&A of Operation of Agilent 1100 HPLC (4479761) and OJT. OJT is conducted alongside testing using the HPLC and includes software functions and hardware familiarization. Assign as a co-req for all tests run on system.
+CUR-LSG-BED-QC-0005,Basewashing QC (Bedford QC),BED,,,No,Yes,"R&A of Glassware & Nalgene Container Cleaning with NaOH (BED7029) and BASEWASH AND RINSING GLASSWARE/EQUIPMENT FORM (8-0085-70-0395), as well as OJT. OJT includes creating base wash solution, washing applicable glassware with base, rinsing of applicable glassware, and the proper recording of all required information on the applicable form."
+CUR-LSG-BED-QC-0006,BCA Coupled Protein Test (Bedford QC),BED,,,No,Yes,"In this training the step for measuring the amount of protein immobilized on a coupled affinity resin with the Bicinchoninic Acid (BCA) assay are covered for the affinity resins- ClusterinClear, FcXP and AAV8/AAV9/AAVX using UV spectrophotometer."
+CUR-LSG-BED-QC-0007,BCA Coupled Protein Test for C1-inh (Bedford QC),BED,,,No,Yes,In this training the step for measuring the amount of protein immobilized on a coupled affinity resin with the Bicinchoninic Acid (BCA) assay are covered for the affinity resin C1-inh using nanodrop
+CUR-LSG-BED-QC-0008,BDX % Solids (Bedford QC),BED,,,No,Yes,Consists of running test triplicate for BDX Xterm
+CUR-LSG-BED-QC-0009,BDX Functional Testing (Bedford QC),BED,,,No,Yes,"Training includes R&A of PROC, TEST BD XTERMINATOR/SAM 3130XL GA and hands on OJT.  OJT will include an introduction to the 3130xl Genetic Analyzer/software including proper capillary array installation, polymer loading and spatial calibration.  Training also includes performance of the functional testing, data analysis and basic troubleshooting.  Great pipetting skills are required.  Please allow 6-9 months to become fully trained as Xterminator and SAM solution are manufactured less frequently."
+CUR-LSG-BED-QC-0010,BDX Particle Size (Bedford QC),BED,,,No,Yes,"Training includes R&A of PROC, S3500 PARTICLE SIZE ANALYSIS and hands on OJT.  OJT will include an introduction to the Microtrac S3500 particle size analyzer/software.  Training also includes proper instrument preparation/shut down, sample preparation, testing, data printout and basic data interpretation.  Please allow 6-9 months to become fully trained as Xterminator and SAM solution are manufactured less frequently."
+CUR-LSG-BED-QC-0011,BDX PASA UV (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0012,"BDX PASA, PAO & PCH Capacity (Bedford QC)",BED,,,No,Yes,
+CUR-LSG-BED-QC-0013,BED/CHM Raw Material Inspection (Bedford QC),BED,,,No,Yes,"Training will cover the QC inspection process of raw materials at the Bedford facilities (2P and 35W). An overview of how raw materials are inspected, sampled, tested, and dispositioned will be provided."
+CUR-LSG-BED-QC-0014,Bioburden and Endotoxin Sampling (Bedford QC),BED,,,No,Yes,"This role will require an R&A for Contract Laboratory Testing (BED3172) an R&A for Bioburden and Endotoxin Sampling for POROS Resins & Tropix Synthesis Polymers (100075299). A LI will cover the sampling process.  OJT will include preparing media, sampling plan, performing bioburden and endotoxin sampling aseptically using a laminar flow hood, and clean-up."
+CUR-LSG-BED-QC-0015,Bioburden for RODI Water (Bedford QC),BED,,,No,Yes,"This training will cover how QC performs bioburden testing using the Milliflex Pump on RODI water samples taken from the water loops at the Bedford and Framingham Sites as well as verification of incubator temperature by thermometer.  An over view of how the samples are processed, how the data is collected, and what to do if the samples have microbial growth will be provided."
+CUR-LSG-BED-QC-0016,Biotest Ligand Density Testing (Bedford QC),BED,,,No,Yes,*Include slurry percentage determination procedure training
+CUR-LSG-BED-QC-0017,Buffer Prep (Bedford QC),BED,,,No,Yes,Training to cover scope of any buffer required to be made for testing
+CUR-LSG-BED-QC-0018,Ceric Sulfate LOD & Acid Conc. (Bedford QC),BED,,,No,Yes,Assign Loss on Drying-OHAUS Balance and pH/Conductivity training roles as pre-reqs to be completed prior/before. Method of measuring loss on drying and sulfuric acid concentration using the moisture balance and conductivity meter.
+CUR-LSG-BED-QC-0019,Ceric Sulfate Solubility (Bedford QC),BED,,,No,Yes,"This training will cover the solubility test on the incoming raw material ceric sulfate per 4482667.  This procedure is a two day process.  On the first day, the samples will be prepared, dissolved, filtered, and then placed in the oven for drying.  On the second day, the weight and percentage of insoluble ceric sulfate will be determined.  An overview of the equipment used for the procedure will be provided."
+CUR-LSG-BED-QC-0020,CERIUM TITRATION (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0021,Calibration of QC Balances (Bedford QC),BED,,,No,Yes,"The SOP is intended to be used by QC personnel as a read and acknowledgment procedure and OJT to ensure appropriate daily and monthly calibration checks of Quality Control balances. This training applies to all employees that use the balances, including moisture balances."
+CUR-LSG-BED-QC-0022,Determination of MEHQ by UHPLC (Bedford QC),BED,,,No,Yes,"There are three phases of training process: Observation, Practice and Qualification phases.
+
+Observation Phase: Trainer performs the test method (100102422 Rev.A) N=1 with the trainee observing. This include the following steps:
+
+
+	Perform the System Operating Conditions
+	Prepare blanks, standards, and APTAC samples described in the test method
+	Set up the sequence
+	Print out the report results
+	Results must meet all suitability criteria defined in the test method.
+
+
+
+Practice Phase: The trainee practices the execution of SOP (100102422 Rev.A) method test N=1/or 2 with the trainer observing. Trainee will execute all the steps performed by trainer during the Observation phase using training samples
+
+
+	Print out the report results
+	Results must meet all suitability criteria defined in the method
+	Results will be analyzed by the trainer to ensure the result do not differ from the observed execution before proceeding to the qualification phase
+
+
+
+Qualification Phase: The trainee demonstrates sufficient knowledge and expertise to independently perform an N=1/or
+N=2 method executions as defined in the Practice Phase above.
+
+
+	Results will be analyzed by the trainer to ensure the results do not differ from the observed execution and the individual execution greater than method variability allows."
+CUR-LSG-BED-QC-0024,Endotoxin Testing (Bedford QC),BED,,,No,Yes,"Training will include an R&A of Endotoxin Testing for RODI Water and POROS (BED3069) and OJT. OJT includes resin prep/dilution, instrument set up and operation, and data retrieval/analysis."
+CUR-LSG-BED-QC-0025,EXTRACTABLE TESTING (Bedford QC),BED,,,No,Yes,"""R&A of Extractable Testing (BED3311) and OJT. OJT includes Day 1: oil bath and moisture balance operation, sample preparation, and starting the extraction. Day 2: sample preparation, rotovap operation, and data analysis.
+Loss on drying should be co-requisite or otherwise able to be assigned at the same time. Training for extractables includes training with moisture balance (assign training unless previously trained)."""
+CUR-LSG-BED-QC-0026,Final Data Review (Bedford QC),BED,,,No,Yes,"""Review data & deviation sheets, QM transfer check, SAP transactions, lock out, tier board tracker
+Final data review is for the entire QC batch record when all the testing is completed and needs final review on the ZQMS."""
+CUR-LSG-BED-QC-0027,FT-IR ANALYSIS (Bedford QC),BED,,,No,Yes,Assign appropriate 'Loss on Drying' training role as co-requisite. Training should cover the operation of the Nicolet Fourier Transformation Infrared Spectrometer (FT-IR) for analysis POROS Media and Raw Materials.
+CUR-LSG-BED-QC-0028,"GLASSWARE CLEANING, QC (Bedford QC)",BED,,,No,Yes,This is to include solution make-up and cleaning requirements for the various labware.
+CUR-LSG-BED-QC-0029,HACH 2100Q Turbidimeter (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0030,Introduction to HPLC Instruments (Bedford QC),BED,,,No,Yes,Training consists of watching informative videos on instruments used in work center and quiz to confirm completion.
+CUR-LSG-BED-QC-0031,LOSS ON DRYING - OHAUS Balance (Bedford QC),BED,,,No,Yes,"Training should cover the operation of the Ohaus Moisture MB balances for measurement of volatile contents, in POROS Resins. This includes navigation and recipe selection as well as testing procedures. This model is currently only used at Bedford location."
+CUR-LSG-BED-QC-0033,MFG - Intro to QC In-Process Testing (Bedford QC),BED,,,No,Yes,Basic information for all MFG techs that will be training to any in-process testing
+CUR-LSG-BED-QC-0034,MFG Data Review for In-Process Testing (Bedford QC),BED,,,No,Yes,"Training consists of general review principles. Supervisors can be trained on the review without the requirement for individual testing OJT sign-off . Operators performing the review still required to complete testing training before data review permissions for specific test results. Trainer should go over: *GDP review, review of specifications against the manufacturing batch record requirements & general documents."
+CUR-LSG-BED-QC-0035,MFG In-Process Coulter Mode (Bedford QC),BED,,,No,Yes,"Training should include:
+
+
+	Operation of Multisizer 4E
+	Buffer preparation- 0.9% NaCl and 8.3% NaCl
+	Run coulter mode samples
+	Data reporting"
+CUR-LSG-BED-QC-0036,MFG In-Process Coulter N%<20 (Bedford QC),BED,,,No,Yes,"Training should include:
+1. Operation of Multisizer 4E
+2. Buffer preparation- 0.9% NaCl
+3. Run coulter N%<20 samples
+4. Data reporting"
+CUR-LSG-BED-QC-0037,MFG In-Process Coulter Sonication (Bedford QC),BED,,,No,Yes,"Training should include:
+1. Operation of Multisizer 4E
+2. Buffer preparation- 0.9% NaCl
+3. Run coulter sonication samples
+4. Data reporting"
+CUR-LSG-BED-QC-0038,MFG Refractive Index for In-Process Samples (Bedford QC),BED,,,No,Yes,"RI for In Process Samples. a. Train to BED3050 i. Perform Daily Water Verification ii. Determine which type of sample it is per the MFG batch record/sample submission sheet in order to determine which form to use iii. Complete RI Testing (specific to the form determined) iv. Process Results on the specific form for the sample v. Train on in-process samples (at minimum train on the following types of samples PEI, GTMAC,AMPSA)"
+CUR-LSG-BED-QC-0039,NMR Testing,BED,,,No,Yes,"This training is specific to the raw material Tri-n-Pentylamine.  Training will cover how the material is sampled for retain, and how samples will be prepared and sent out for NMR Testing for investigative purposes per T7542.  An overview of the NMR software used for analysis will be provided."
+CUR-LSG-BED-QC-0040,Out Of Service Instruments (Bedford QC),BED,,,No,Yes,Read procedures for action to take when instrument is out of service per Supervisor advisement
+CUR-LSG-BED-QC-0041,pH/Conductivity (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0042,POROS % Solids (Bedford QC),BED,,,No,Yes,**Assign with appropriate training role for OHAUS Moisture Balance
+CUR-LSG-BED-QC-0043,POROS 100ml Process Scale Fines/Percent Solids (Bedford QC),BED,,,No,Yes,"Assign with HACH 2100Q Turbidimeter training if not already assigned.  The OJT includes training for slurry concentration testing using the moisture balance.  It also includes sample preparation, filtration, and filtrate collection.  This training relates to the 100mL scale."
+CUR-LSG-BED-QC-0044,POROS 1L Process Scale Fines/Packed Bed Height,BED,,,No,Yes,Assign with HACH 2100Q Turbidimeter training if not already assigned. Turbidimeter training requires sign off prior to PSF training. This training relates to the 1L scale.
+CUR-LSG-BED-QC-0045,POROS A ELISA Test (Bedford QC),BED,,,No,Yes,*Assign training roles 'POROS BioCad HPLC' & 'UV Testing' as Co-requisites
+CUR-LSG-BED-QC-0047,POROS AAV CDI Density (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0048,POROS AAV ID - U3000 HPLC (Bedford QC),BED,,,No,Yes,Training to cover operation of the U3000 HPLC for peptide mapping of AAV tryptic digests.
+CUR-LSG-BED-QC-0049,POROS AAV Specificity (Bedford QC),BED,,,No,Yes,**Must assign POROS Nanodrop training role at same time (co-req)
+CUR-LSG-BED-QC-0050,POROS AAV Stability (Bedford QC),BED,,,No,Yes,"*Assign training role UV Protein Concentration & POROS AKTA PURE HPLC as co-requisites
+Training to cover the following testing:
+
+
+	low pH ionic capacity
+	high pH ionic capacity
+	protein separation
+	dynamic binding capacity"
+CUR-LSG-BED-QC-0051,POROS Functional Testing on AKTA Pure (Bedford QC),BED,,,No,Yes,"Training to cover AEX50, HS and HE functional testing"
+CUR-LSG-BED-QC-0052,POROS Functional Testing on AKTA Purifier (Bedford QC),BED,,,No,Yes,"Training to cover Moderna, XQ, A, HIC, XS, FCXP Functional testing"
+CUR-LSG-BED-QC-0053,POROS AKTA PURE HPLC (Bedford QC),BED,,,No,Yes,"R&A of Flow Rate Determination (BED3157), AKTA Pure Operation (100025400), and OJT. OJT includes system preparation, test specific buffer and sample preparation, system set up, calibration and system checks, data analysis, and system break-down/cleaning. Assign as co-req for all tests run on system."
+CUR-LSG-BED-QC-0054,POROS AKTA PURIFIER HPLC (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0055,POROS Analytical Management (Bedford QC),BED,,,No,Yes,This training role is to provide Supervisory staff high level training of applicable tests and procedures under their guidance (R&A only). Completing role does not give clearance to execute procedures without further assignment/completion of related OJT.
+CUR-LSG-BED-QC-0056,POROS Functional Testing on Biocad (Bedford QC),BED,,,No,Yes,"*Assign training role POROS BioCad HPLC as co-requisite. Training to cover Anion, HS, R10, R3, Oligomer lysozyme binding and R Separations testing."
+CUR-LSG-BED-QC-0057,POROS Bioburden Determination (Bedford QC),BED,,,No,Yes,"This training will cover how the bioburden testing results for POROS resins and Tropix Polymers are obtained from contract labs, how the results are interpreted, and then how they are recorded in Form 100075200 and in SAP-QM."
+CUR-LSG-BED-QC-0058,POROS BioCad HPLC (Bedford QC),BED,,,No,Yes,"R&A of Biocad Operation (BED7120), Flow Rate Determination (BED3157), Maintenance & Calibration/Biocad System (BED7016), and OJT. OJT includes system preparation, test specific buffer and sample preparation, system set up, calibrations and system checks, data analysis, and system break-down/cleaning. Assign as a co-req for all tests run on system."
+CUR-LSG-BED-QC-0059,POROS Caprylate Functional Testing (Bedford QC),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,Training will cover preparation of columns and buffers for POROS caprylate functional testing and demonstration of proficiency in the MMCEX Exchange Capacity Method and MMCEX Dynamic Binding Capacity Method.  Training will cover hands analysis of the resin using an AKTA Pure as well as interpretation and reporting of results.
+CUR-LSG-BED-QC-0060,POROS Column Packing (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0061,POROS Coulter Particle Size (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0062,POROS Coulter Verification (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0063,POROS HPLC Management (Bedford QC),BED,,,No,Yes,This training role is to provide Supervisory staff high level training of applicable tests and procedures under their guidance (R&A only). Completing role does not give clearance to execute procedures without further assignment/completion of related OJT.
+CUR-LSG-BED-QC-0064,POROS HPLC Testing Overview (Bedford QC),BED,,,No,Yes,Area Supervisor to conduct training with new hires for HPLC team
+CUR-LSG-BED-QC-0065,POROS in NaOH Titration Testing (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0066,POROS Nanodrop (Bedford QC),BED,,,No,Yes,"Training should cover the micro-volume UV instrument operation, calibration and analysis of a wide variety of analytes, including POROS Affinity resin."
+CUR-LSG-BED-QC-0067,POROS QC Overview (Bedford QC),BED,,,No,Yes,Area Supervisor to conduct classroom training
+CUR-LSG-BED-QC-0068,POROS SEDIMENTATION FINES (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0069,POROS XQ APTAC Turbidity (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0070,POROS XQ MEHQ Analysis (Bedford QC),BED,,,No,Yes,"R&A of MEHQ Level in DMAP or APTAC by HPLC (4483113); Form, MEHQ Level in DMAP/APTAC by HPLC; and OJT. OJT includes buffer preparation, sample and standard preparation, system set up, and data analysis."
+CUR-LSG-BED-QC-0072,Porosimetry - Autopore Testing & Analysis (Bedford QC),BED,,,No,Yes,"The OJT will include sample preparations, run preparation, starting and monitoring an analysis, control testing, post run cleaning, data analysis, creation of penetrometer files, and creation of blank files."
+CUR-LSG-BED-QC-0076,QC Data Review (Bedford QC),BED,,,No,Yes,"Training consists of general review principles. Employee still required to complete testing training before data review permissions for specific test results. Trainer should go over:
+
+
+	GDP review
+	Review of QMs against SAP & general documents
+	Data Review checklist"
+CUR-LSG-BED-QC-0077,QC New Employee (Bedford QC),BED,,,No,Yes,Basics for all QC new hires.
+CUR-LSG-BED-QC-0078,QC RETAIN STORAGE & USE (Bedford QC),BED,,,No,Yes,The trainer needs to train on retain samples logging in with all the appropriate information and then storing these logged in samples in appropriate retain cages.
+CUR-LSG-BED-QC-0079,Real Time Stability Testing (Bedford QC),BED,,,No,Yes,"Training covers the requirements for Implementing an ongoing testing program to confirm the assigned ship by period and monitor the real time stability characteristics of products, overtime."
+CUR-LSG-BED-QC-0080,Refractive Index for Bulk & In-Process Samples (Bedford QC),BED,,,No,Yes,"RI for Bulk & In Process Samples
+a. Train to BED3050
+i. Perform Daily Water Verification
+ii. Determine which type of sample it is per the sample submission sheet in order to determine which form to use
+iii. Complete RI Testing (specific to the form determined)
+iv. Process Results on the specific form for the sample
+v. Train on in-process samples (at minimum train on the following types of samples PEI, GTMAC,AMPSA)
+vi. Train on final samples using the ETOH form"
+CUR-LSG-BED-QC-0081,Refractive Index for Raw Materials (Bedford QC),BED,,,No,Yes,"RI for Raw Material Samples 
+a.	 Train to BED3050
+i.	Daily Water Verification
+ii.	RI Testing
+iii.	Results Processing"
+CUR-LSG-BED-QC-0082,Safe Handling and Use of Liquid Nitrogen (Bedford QC),BED,,,No,Yes,"All aspects related to handling, spills, and contact with liquid Nitrogen - required training for those using TriStar Porosimeter"
+CUR-LSG-BED-QC-0083,Sample Handling (Bedford QC),BED,,,No,Yes,"An overview of how samples are processed by the Quality Control Department.  Training will be provided on how samples are submitted to QC with Test Request Form, 8-0003-70-0596, entered into the QC Logbook, how samples are pooled, determining which testing is required, documenting any deviations or PRs, and reviewing of test results.  The retain and storage of these samples will also be covered."
+CUR-LSG-BED-QC-0084,Smart QC Basic Training (Bedford QC),BED,,,No,Yes,"Covers how to login and navigate the Smart QC system interface, introduces critical features and demonstrates how to use standard search options and filters."
+CUR-LSG-BED-QC-0085,Solvent Tanker Receiving & Inspection (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0086,Static Binding Capacity Testing (Bedford QC),BED,,,No,Yes,This training will cover how QC will perform the static binding testing on resin. The ligand will be bound onto the resin and eluted using two different elution buffers.  The elution fraction will be read using the Nanodrop.
+CUR-LSG-BED-QC-0087,U3000 Column Efficiency (Bedford QC),BED,,,No,Yes,"Training will cover how to run HE50 column efficiency runs
+"
+CUR-LSG-BED-QC-0088,USE OF CHROMATOGRAPHY CONTROLS (Bedford QC),BED,,,No,Yes,
+CUR-LSG-BED-QC-0089,UV Acetone Concentration (Bedford QC),BED,,,No,Yes,*Ensure to include OH550 sample in training for prep differences
+CUR-LSG-BED-QC-0090,UV Protein Concentration (Bedford QC),BED,,,No,Yes,Training should cover UV Instrument operations and determination of protein concentrations.
+CUR-LSG-BED-QC-0091,VersaMax Calibration (Bedford QC),BED,,,No,Yes,This procedure is intended to be used by QC personnel to calibrate the VersaMax plate reader. The calibration frequency of 5 months is established in the calibration system according to manufacturer’s recommendation.
+CUR-LSG-BED-QC-0092,TriStar Analysis (Bedford QC),BED,,,No,Yes,This training covers the use of the Micromeritics TriStar II Plus nitrogen adsorption instrument to measure surface area of R beads for QC release.
+CUR-LSG-BED-QC-0093,POROS Anti A/B Specificity Test (Bedford QC),BED,,,No,Yes,*Assign training role POROS AKTA PURE HPLC as co-requisite
+CUR-LSG-BED-QC-0094,AB 3500xL Genetic Analyzer Operation (Bedford QC),BED,,,No,Yes,"Training to cover prep, operation, maintenance and basic troubleshooting to successfully operate instrument for BDX testing.
+"
+CUR-LSG-BED-QC-0095,pH/Conductivity for SAM (Bedford QC),BED,,,No,Yes,"Training will cover how to complete pH/Conductivity testing on the SAM product (BDX)
+"
+CUR-LSG-BED-QC-5001,QC Bedford Intro Curriculum (Bedford QC Analytics),BED,,,No,Yes,Curriculum covers QC basic trainings all Bedford department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-QC-5002,QC Chelmsford Intro Curriculum (Bedford QC Analytics),BED,,,No,Yes,Curriculum covers QC basic trainings all Chelmsford department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-QC-5003,QC Process Scale Fines (PSF) & Turbidity Curriculum (Bedford QC Analytics),BED,,,No,Yes,Level Tech II+.
+CUR-LSG-BED-QC-5004,QC Porosimetry Curriculum (Bedford QC Analytics),BED,,,No,Yes,Level Tech III+. Curriculum covers Autopore and Tristar instrument use and testing requirements - pore mode and volume.
+CUR-LSG-BED-QC-5005,QC Porosimetry with PMI Only Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech III+. Curriculum covers PMI instrument use, maintenance and testing. Applicable to only the Bedford location."
+CUR-LSG-BED-QC-5006,QC Ceric Sulfate Characterization Curriculum (Bedford QC Analytics),BED,,,No,Yes,Level Tech III+. 
+CUR-LSG-BED-QC-5007,QC Bedford Bioburden/Endotoxin Testing Curriculum (Bedford QC Analytics),BED,,,No,Yes,Level Tech II+.
+CUR-LSG-BED-QC-5008,QC RODI Water Sampling Curriculum (Bedford QC Analytics),BED,,,No,Yes,Level Tech II+.
+CUR-LSG-BED-QC-5009,QC Coulter Verification Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech III+. 
+"
+CUR-LSG-BED-QC-5010,QC Bedford UV Testing Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech II+.
+"
+CUR-LSG-BED-QC-5011,QC Chelmsford UV Testing Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech II+.
+"
+CUR-LSG-BED-QC-5012,QC Bedford Bioassay Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech III+. 
+"
+CUR-LSG-BED-QC-5013,QC Specificity Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech III+. 
+"
+CUR-LSG-BED-QC-5014,QC Final Data Review Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech III+. 
+"
+CUR-LSG-BED-QC-5015,QC Extractable Testing Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech III+. 
+"
+CUR-LSG-BED-QC-5016,QC Inspection Curriculum - 2P & 220 Mill (Bedford QC Analytics),BED,,,No,Yes,"Level Tech II +. Covers raw material and finished goods inspection at the 2 Preston Court and 220 Mill Rd locations.
+"
+CUR-LSG-BED-QC-5017,QC Inspection Curriculum - 35W (Bedford QC Analytics),BED,,,No,Yes,"Level Tech II +. Covers raw material and finished goods inspection at the 35 Wiggins location.
+"
+CUR-LSG-BED-QC-5018,QC Supervisor/Manager Curriculum (Bedford QC Analytics),BED,,,No,Yes,
+CUR-LSG-BED-QC-5019,QC HPLC Bedford Intro Curriculum (Bedford QC HPLC),BED,,,No,Yes,"Curriculum covers QC HPLC basic trainings all Bedford department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+"
+CUR-LSG-BED-QC-5020,QC HPLC Chelmsford Intro Curriculum (Bedford QC HPLC),BED,,,No,Yes,"Curriculum covers QC HPLC basic trainings all Chelmsford department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+"
+CUR-LSG-BED-QC-5021,POROS Biocad HPLC Curriculum (Bedford QC HPLC),BED,,,No,Yes,"Curriculum to cover use and cleaning of BioCad as well as functional testing for POROS HS, R10, R3, Anion, Oligomer Lysozyme binding as well as POROS A ELISA Test.
+"
+CUR-LSG-BED-QC-5022,QC HPLC Advanced Curriculum (Bedford QC HPLC),BED,,,No,Yes,"Level Sci i+. 
+"
+CUR-LSG-BED-QC-5023,QC HPLC Specificity Curriculum (Bedford QC HPLC),BED,,,No,Yes,"Level Sci i+. 
+"
+CUR-LSG-BED-QC-5024,AKTA PURE Curriculum (Bedford QC HPLC),BED,,,No,Yes,"Level Sci i+. 
+"
+CUR-LSG-BED-QC-5025,AKTA Purifier Curriculum (Bedford QC HPLC),BED,,,No,Yes,"Level Sci i+. 
+"
+CUR-LSG-BED-QC-5026,QC Surface Area Determination Curriculum (Bedford QC Analytics),BED,,,No,Yes,Level Tech III+.  Curriculum covers Tristar instrument use and testing requirements. 
+CUR-LSG-BED-QC-5027,BDX Testing Curriculum (Bedford QC Analytics),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,Level Tech III+.  Curriculum covers testing for the BDX products made at our Bedford facility - Xterm and Sam. 
+CUR-LSG-BED-QC-5028,QC Bedford BCA Bioassay Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech III+. 
+"
+CUR-LSG-BED-QC-5029,BDX Advanced Curriculum (Bedford QC Analytics),BED,,,No,Yes,"Level Tech III+.  Curriculum covers testing for the BDX products made at our Bedford facility  using the 3500xL Genetic Analyzer - Xterm and Sam. 
+"
+CUR-LSG-BED-QCAD-0001,Audit Trail Management (Bedford QCAD),BED,,,No,Yes,"Training applies to raw materials, intermediates and final products requiring a cross functional review in relation to material or process issues occurring during manufacturing, inspection, or testing where the disposition is in question."
+CUR-LSG-BED-QCAD-0002,QC Data Security and Integrity (Bedford QCAD),BED,,,No,Yes,General data integrity guidelines and data security info for QC team members
+CUR-LSG-BED-QCAD-0003,QC Systems Engineer (Bedford QCAD),BED,,,No,Yes,Training consists of R&As associated with systems management information
+CUR-LSG-BED-QCAD-0004,QCAD New Employee (Bedford QCAD),BED,,,No,Yes,Documents and training associated with QCAD group responsibilities.
+CUR-LSG-BED-QCAD-0005,QCAD U3000 HPLC (Bedford QCAD),BED,,,No,Yes,"Training to consist of buffer prep, system setup, column installation, chromatographic analysis, general maintenance, system cleaning, and preventive maintenance."
+CUR-LSG-BED-QCAD-0006,Unicorn Software Administrator (Bedford QCAD),BED,,,No,Yes,Requires strong IT knowledge and skills to be assigned this role/responsibilities. No instructions on system upkeep and maintenance currently available. Refer to user guide manual located on Cytiva.com. Requires a current system admin to give permissions for access.
+CUR-LSG-BED-QCAD-5001,QCAD Intro Curriculum (Bedford QCAD),BED,,,No,Yes,Curriculum covers QCAD basic trainings all department employees will need to take following onboarding training completion. Assessment of performance following completion will assist in determining specialty training path curriculums assigned for next steps in development.
+CUR-LSG-BED-QUA-0001,Initiation of a Problem Record - BPG,BED,,,No,Yes,"1.1.	This procedure directly describes the minimum requirements for initiating a Problem Record, processing of issue & completion of Impact assessments."
+CUR-LSG-BED-RD-0001,Design Excellence - Yellow/Green Belt (Bedford POROS R&D),BED,,,No,Yes,"Complete all 10 modules to become green belt certified. Complete 5 modules to achieve yellow belt.
+"
+CUR-LSG-BED-RD-0002,Intro to R Chemistry (Bedford POROS R&D),BED,,,No,Yes,"Presentation and information provided by POROS R&D group for the R bead chemistry
+"
+CUR-LSG-BED-RD-0003,Purification Overview (Bedford POROS R&D),BED,,,No,Yes,"Intended for POROS R&D new hires - for review of purification products slides and notes.
+"
+CUR-LSG-BED-RD-0004,R&D New Employee EHS Checklist (Bedford POROS R&D),BED,,,No,Yes,"Complete EHS checklist tour with your Supervisor or team member and turn in completed form to training coordinator or EHS department.
+"
+CUR-LSG-BED-RD-0005,R&D New Hire Training (Bedford POROS R&D),BED,,,No,Yes,"General info that is helpful for on-boarding new R&D hires
+"
+CUR-LSG-BED-RD-5001,R&D Team Intro Curriculum (Bedford POROS R&D),BED,,,No,Yes,Curriculum covers POROS R&D basic trainings all department employees will need to take following onboarding training completion.
+CUR-LSG-BED-SMS-0001,10L Jacketed Reactor Cleaning (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0002,2P Lab Facility Cleaning (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0003,Batch Washing in Sintered Glass Funnels (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0004,"Chlorosulfonation, PEI, Decants (Bedford POROS Lab)",BED,,,No,Yes,
+CUR-LSG-BED-SMS-0005,General Buffer Prep (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0006,General Glassware Cleaning (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0007,Glassware/Equipment General Basewashing (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0008,HE50 Acetic Acid Wash/Ac2O Rxn (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0009,HQ/PI Hot Water Washes (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0010,Moisture Balance Operation (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0011,O2 Meter Operation (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0012,OH250 in 18% EtOH (packaging) (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0013,pH Meter Operation (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0014,Polishing (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0015,POROS A220 coupling (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0016,POROS A450/SPA450 coupling (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0017,POROS AL220 Rxns (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0018,POROS EP 20 Rxn (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0019,POROS G220 coupling (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0020,POROS HE50 Amine Rxn (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0021,POROS HE50 Heparin Rxn (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0023,"POROS HQ110, HQ120 GTMAC (Bedford POROS Lab)",BED,,,No,Yes,
+CUR-LSG-BED-SMS-0024,POROS HS220 Rxn (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0025,POROS HS220 Washing (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0026,POROS Lab Decontamination Sieving (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0027,Poros Lab New Employee (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0028,POROS Lab Packaging and Labeling (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0029,Poros Lab Sedimentations (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0030,"POROS OH Adsorption (OH220, OH220, OH110, ET120) (Bedford POROS Lab)",BED,,,No,Yes,
+CUR-LSG-BED-SMS-0031,"POROS OH Crosslinking (OH220, OH220, OH110, ET120) (Bedford POROS Lab)",BED,,,No,Yes,
+CUR-LSG-BED-SMS-0032,Process Tank Operation and Cleaning (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0033,R210 Organic Prep and Polymerization (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0034,R210 PVA Prep (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0035,R210 sonication (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0036,R210 Washing (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0039,Sedimentation Tank Operation cleaning (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-0040,Temperature Logger Operation (Bedford POROS Lab),BED,,,No,Yes,"Covers logging and offloading data
+"
+CUR-LSG-BED-SMS-0041,Vacuum Oven Cleaning (Bedford POROS Lab),BED,,31/Dec/2017 07:00 PM America/Indianapolis,No,Yes,
+CUR-LSG-BED-SMS-0042,Vacuum Oven Operation (Bedford POROS Lab),BED,,,No,Yes,
+CUR-LSG-BED-SMS-5001,POROS Lab Team Intro Curriculum (Bedford POROS Lab),BED,,,No,Yes,Curriculum covers POROS Lab basic trainings all department employees will need to take following onboarding training completion.
+CUR-LSG-BED-SMS-5002,POROS HE50 Curriculum (Bedford POROS Lab),BED,,,No,Yes,"Curriculum covers Amine, Heparin and Acetic Acid wash/Ac2O RXNs. Animal origin product - can only be made in POROS lab."
+CUR-LSG-BED-SMS-5003,POROS Lab R210 Curriculum (Bedford POROS Lab),BED,,,No,Yes,"Curriculum covers R210 organic prep & polymerization, PVA prep, sonication and washing."
+CUR-LSG-BED-SMS-5004,POROS Lab Anti-A/B Curriculum (Bedford POROS Lab),BED,,,No,Yes,"Curriculum covers POROS Anti-A/B coupling, sedimentations and washes. Animal origin product - can only be made in POROS lab."
+CUR-LSG-BED-SQA-0002,External Supplier Scorecard (Bedford Campus) (Bedford Supplier Quality),BED,,,No,Yes,"Training is for procurement team and supplier quality. The purpose of this procedure is to obtain the performance metrics that are to be used to create the Bedford Campus Scorecards for Tier1, external suppliers. Refer to SOP100036345 for determining a supplier tiering level classification."
+CUR-LSG-BED-SQA-0004,Supplier Evaluation and Re-evaluation Process (Bedford Supplier Quality),BED,,,No,Yes,"This procedure includes the requirements for supplier selection, evaluation and re-evaluation process for direct material suppliers and external services that directly impacts finished good manufacturing. Supplier classification using risk based approach and supplier approval process requirements were established in this procedure."

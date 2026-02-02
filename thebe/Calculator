@@ -1,0 +1,7 @@
+current_balance = 5_626.53
+CFU = 1_104.24
+tires = 1300
+CFF = 121.75
+CSP = 26.26
+amex = 190.29
+print(current_balance - (amex + CFU + tires + CFF + CSP))
