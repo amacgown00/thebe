@@ -15,3 +15,19 @@ if not result.empty:
     print(result.iloc[0])
 else:
     print('No match found')
+
+#
+print('\n\n')
+#
+
+lookup_value = "767509"
+
+result = df.loc[
+    df.iloc[:, 0].astype(str).str.contains(str(lookup_value), na=False),
+    df.columns[8]
+]
+
+if not result.empty:
+    print(result.iloc[0])
+else:
+    print("No match found")
